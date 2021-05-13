@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="289.759" height="298.975" viewBox="0 0 289.759 298.975">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.056" x2="0.5" y2="-0.039" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.42" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.877" x2="0.5" y2="0.05" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="0.903" stop-color="#505052"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_57240" data-name="Grupo 57240" transform="translate(-750.24 -2849.634)">
+    <g id="Grupo_57239" data-name="Grupo 57239">
+      <g id="Grupo_56188" data-name="Grupo 56188">
+        <g id="Grupo_56186" data-name="Grupo 56186">
+          <g id="Grupo_56185" data-name="Grupo 56185">
+            <rect id="Rectángulo_5402" data-name="Rectángulo 5402" width="153.053" height="153.053" rx="11.788" transform="translate(789.679 2957.859) rotate(-45)" fill="#d61b22"/>
+            <rect id="Rectángulo_5403" data-name="Rectángulo 5403" width="130.319" height="130.319" rx="10.497" transform="translate(805.755 2957.859) rotate(-45)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="Grupo_56187" data-name="Grupo 56187">
+          <path id="Trazado_101312" data-name="Trazado 101312" d="M917.551,2990.389s13.3-5.927,8.824-20.809c0,0-2.963-8.363-1.942-12.281,0,0-3.919-1.416-7.3,5.63a5.687,5.687,0,0,1-6.519,2.393s5.4-5.576,1.844-15.146a35.854,35.854,0,0,1-1.361-9.965s-2.634-.176-2.766,8.56-4.653,9.571-4.653,9.571,3.995-15.541-6.454-21.248c0,0,.834,5.882-1.668,15.1s1.449,18.833,1.449,18.833-5.795-.22-10.668-11.107a18.187,18.187,0,0,0-7.178-9.636s4.215,17.187-4.148,16.924a10.85,10.85,0,0,1-4.61-3.469s-7.836,12.029,2.568,21.907l6.783,4.741s-7.968,1.91-17.187-6.19c0,0-8.363-5.6-7.573-20.084,0,0,.132-8.232,5.07-19.887a15.529,15.529,0,0,0-.065-9.088s5.136-.724,11.655,6.98c0,0,.593-1.58-2.173-6.716,0,0-3.227-6.322,3.49-14.817,0,0,6.454-7.77,3.029-12.446,0,0,6.124,3.029,5.2,13.763,0,0-1.647,15.146,7.111,20.941,0,0-7.7-17.648-2.37-29.37,0,0,2.568-8.824,12.05-18.5,0,0,5.532-5.861,4.478-11.194,0,0,5.4,4.543.725,18.043s1.712,21.4,1.712,21.4-4.346-14.685,9.877-22.257c0,0-5.07,9.087.856,14.816s8.269,14.454,2.174,22.85c0,0,1.778.79,8.758-6.848,0,0,4.741-4.544,8.363-4.61,0,0-5.861,3.424-1.383,13.039s11.524,21.7,4.017,39.3C937.57,2979.51,931.775,2991.443,917.551,2990.389Z" fill="url(#linear-gradient-2)"/>
+          <rect id="Rectángulo_5404" data-name="Rectángulo 5404" width="77.704" height="7.639" transform="translate(859.602 2994.077)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <path id="Trazado_2380" data-name="Trazado 2380" d="M750.24,3072.522H1040v76.087H750.24Z" fill="#e94b46"/>
+    </g>
+    <text id="LÍQUIDO_Y_VAPORES_EXTREMADAMENTE_INFLAMABLES" data-name="LÍQUIDO Y VAPORES 
+EXTREMADAMENTE INFLAMABLES" transform="translate(898.517 3120.94)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-76.957" y="0">LÍQUIDO Y VAPORES </tspan><tspan x="-129.105" y="19.2">EXTREMADAMENTE INFLAMABLES</tspan></text>
+    <text id="PELIGRO" transform="translate(898.517 3097.984)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-36.453" y="0">PELIGRO</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="Grupo_56221" data-name="Grupo 56221" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="251.998" height="251.998" viewBox="0 0 251.998 251.998">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.053" x2="0.5" y2="-0.036" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.42" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.877" x2="0.5" y2="0.05" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="0.903" stop-color="#505052"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_56210" data-name="Grupo 56210" transform="translate(0 0)">
+    <g id="Grupo_56209" data-name="Grupo 56209" transform="translate(0)">
+      <rect id="Rectángulo_5412" data-name="Rectángulo 5412" width="178.189" height="178.189" rx="10.541" transform="translate(0 125.999) rotate(-45)" fill="#d61b22"/>
+      <rect id="Rectángulo_5413" data-name="Rectángulo 5413" width="151.721" height="151.721" rx="10.497" transform="translate(18.716 125.999) rotate(-45)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Grupo_56211" data-name="Grupo 56211" transform="translate(75.98 39.751)">
+    <path id="Trazado_101340" data-name="Trazado 101340" d="M616.747,3374.514s15.486-6.9,10.273-24.226c0,0-3.45-9.736-2.262-14.3,0,0-4.561-1.648-8.5,6.554a6.622,6.622,0,0,1-7.591,2.787s6.287-6.492,2.147-17.634c0,0-1.891-6.542-1.585-11.6,0,0-3.066-.2-3.22,9.967S600.6,3337.2,600.6,3337.2s4.651-18.094-7.514-24.738c0,0,.971,6.85-1.941,17.582s1.686,21.927,1.686,21.927-6.747-.257-12.42-12.932a21.168,21.168,0,0,0-8.356-11.218s4.906,20.009-4.83,19.7a12.634,12.634,0,0,1-5.367-4.039s-9.123,14,2.991,25.505l7.9,5.519s-9.277,2.224-20.01-7.206c0,0-9.736-6.517-8.816-23.383,0,0,.152-9.583,5.9-23.153a18.081,18.081,0,0,0-.077-10.58s5.98-.843,13.569,8.127c0,0,.69-1.84-2.53-7.82,0,0-3.756-7.36,4.064-17.25,0,0,7.513-9.046,3.526-14.49,0,0,7.131,3.527,6.057,16.024,0,0-1.917,17.633,8.281,24.38,0,0-8.971-20.547-2.76-34.193,0,0,2.989-10.274,14.029-21.543,0,0,6.441-6.823,5.215-13.033,0,0,6.286,5.289.842,21.007s1.993,24.917,1.993,24.917-5.06-17.1,11.5-25.914c0,0-5.9,10.58,1,17.25s9.626,16.827,2.53,26.6c0,0,2.07.921,10.2-7.973,0,0,5.519-5.29,9.736-5.366,0,0-6.824,3.985-1.611,15.178s13.417,25.27,4.677,45.755C640.052,3361.849,633.307,3375.742,616.747,3374.514Z" transform="translate(-543.853 -3250.393)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectángulo_5414" data-name="Rectángulo 5414" width="90.466" height="8.893" transform="translate(5.428 128.414)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

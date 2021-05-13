@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="932.257" height="482.912" viewBox="0 0 932.257 482.912">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.065" x2="0.5" y2="-0.047" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.42" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.482" y1="-0.292" x2="0.508" y2="0.825" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="0.903" stop-color="#505052"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.479" y1="-0.33" x2="0.508" y2="0.81" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="0.464" y1="-0.324" x2="0.499" y2="0.783" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Grupo_55961" data-name="Grupo 55961" transform="translate(-74.783 -778.408)">
+    <line id="Línea_113" data-name="Línea 113" y1="55.954" x2="169.249" transform="translate(663.997 1109.399)" fill="none" stroke="#963030" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_114" data-name="Línea 114" x2="169.249" y2="55.954" transform="translate(663.997 1174.141)" fill="none" stroke="#963030" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="Rectángulo_5323" data-name="Rectángulo 5323" width="180.873" height="62.45" rx="3.913" transform="translate(826.167 1198.87)" fill="#0dcea9"/>
+    <rect id="Rectángulo_5324" data-name="Rectángulo 5324" width="180.873" height="62.45" rx="3.913" transform="translate(826.167 1078.174)" fill="#0dcea9"/>
+    <text id="_Etiquetas" data-name=" Etiquetas" transform="translate(916.604 1113.706)" fill="#fff" font-size="17.547" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-39.198" y="0" xml:space="preserve"> Etiquetas</tspan></text>
+    <text id="FDS" transform="translate(916.604 1237.353)" fill="#fff" font-size="17.547" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-15.902" y="0">FDS</tspan></text>
+    <line id="Línea_115" data-name="Línea 115" y1="91.638" x2="162.171" transform="translate(327.159 907.51)" fill="none" stroke="#468ca5" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_116" data-name="Línea 116" y1="91.638" x2="162.171" transform="translate(663.997 802.878)" fill="none" stroke="#963030" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_117" data-name="Línea 117" x2="162.171" y2="91.638" transform="translate(663.997 919.663)" fill="none" stroke="#963030" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_118" data-name="Línea 118" x2="162.171" y2="0.173" transform="translate(663.997 908.865)" fill="none" stroke="#963030" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_119" data-name="Línea 119" x2="162.171" y2="91.638" transform="translate(327.159 1073.714)" fill="none" stroke="#468ca5" stroke-miterlimit="10" stroke-width="3"/>
+    <rect id="Rectángulo_5325" data-name="Rectángulo 5325" width="180.873" height="62.45" rx="3.913" transform="translate(486.721 875.796)" fill="#69d1ff"/>
+    <text id="Clasificación_de_peligros" data-name="Clasificación de 
+peligros" transform="translate(577.157 903.927)" font-size="17.547" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-65.057" y="0">Clasificación de </tspan><tspan x="-31.86" y="21.057">peligros</tspan></text>
+    <g id="Grupo_55960" data-name="Grupo 55960">
+      <g id="Grupo_55958" data-name="Grupo 55958">
+        <rect id="Rectángulo_5326" data-name="Rectángulo 5326" width="224.989" height="224.989" rx="17.329" transform="translate(74.783 1050.205) rotate(-45)" fill="#d61b22"/>
+        <rect id="Rectángulo_5327" data-name="Rectángulo 5327" width="191.569" height="191.569" rx="10.497" transform="translate(98.414 1050.205) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_55959" data-name="Grupo 55959">
+        <path id="Trazado_100947" data-name="Trazado 100947" d="M206.637,1072.049a63.229,63.229,0,0,1-18.855,3.184c-10.307,0-17.765-2.6-22.961-7.542-5.111-4.944-7.961-12.318-7.961-20.615.084-18.771,13.743-29.5,32.263-29.5,7.291,0,12.9,1.425,15.671,2.682l-2.682,10.307c-3.1-1.425-6.872-2.43-13.073-2.43-10.642,0-18.771,6.033-18.771,18.268,0,11.732,7.375,18.52,17.85,18.52a19.578,19.578,0,0,0,6.2-.754v-11.9H185.6V1042.3h21.033Z" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_100948" data-name="Trazado 100948" d="M229.433,1018.166v21.787h21.033v-21.787H263.2v56.48H250.466V1051.1H229.433v23.547H216.7v-56.48Z" fill="url(#linear-gradient-3)"/>
+        <path id="Trazado_100949" data-name="Trazado 100949" d="M274.771,1061.49a32.272,32.272,0,0,0,14.162,3.52c5.866,0,8.966-2.431,8.966-6.118,0-3.519-2.681-5.531-9.469-7.877-9.385-3.352-15.587-8.548-15.587-16.76,0-9.637,8.129-16.927,21.369-16.927a33.042,33.042,0,0,1,14.414,2.849l-2.849,10.223a26.426,26.426,0,0,0-11.732-2.681c-5.531,0-8.213,2.6-8.213,5.447,0,3.6,3.1,5.195,10.475,7.961,9.972,3.687,14.581,8.882,14.581,16.843,0,9.47-7.206,17.514-22.709,17.514-6.453,0-12.822-1.759-16.006-3.519Z" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+    <rect id="Rectángulo_5328" data-name="Rectángulo 5328" width="180.873" height="62.45" rx="3.913" transform="translate(486.721 1134.127)" fill="#69d1ff"/>
+    <text id="Métodos_de_comunicación" data-name="Métodos de 
+comunicación" transform="translate(577.158 1160.067)" font-size="17.547" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-48.696" y="0">Métodos de </tspan><tspan x="-55.336" y="21.057">comunicación</tspan></text>
+    <rect id="Rectángulo_5329" data-name="Rectángulo 5329" width="180.873" height="62.45" rx="3.913" transform="translate(818.208 877.812)" fill="#f94e4e"/>
+    <rect id="Rectángulo_5330" data-name="Rectángulo 5330" width="180.873" height="62.45" rx="3.913" transform="translate(818.208 967.923)" fill="#f94e4e"/>
+    <rect id="Rectángulo_5331" data-name="Rectángulo 5331" width="180.873" height="62.45" rx="3.913" transform="translate(818.208 778.408)" fill="#f94e4e"/>
+    <text id="_Peligros_Físicos" data-name=" Peligros Físicos" transform="translate(908.645 817.227)" fill="#fff" font-size="17.547" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-65.044" y="0" xml:space="preserve"> Peligros Físicos</tspan></text>
+    <text id="_Peligros_a_la_salud" data-name=" Peligros a la salud" transform="translate(908.645 913.622)" fill="#fff" font-size="17.547" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-74.447" y="0" xml:space="preserve"> Peligros a la salud</tspan></text>
+    <text id="_Peligros_ambientales" data-name=" Peligros ambientales" transform="translate(908.645 1001.908)" fill="#fff" font-size="17.547" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-85.418" y="0" xml:space="preserve"> Peligros ambientales</tspan></text>
+  </g>
+</svg>
