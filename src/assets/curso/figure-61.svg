@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1101.105" height="584.338" viewBox="0 0 1101.105 584.338">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.043" x2="0.5" y2="-0.026" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.42" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.937" x2="0.5" y2="-0.506" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="0.903" stop-color="#505052"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0.877" x2="0.5" y2="0.05" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-8" x1="0.5" y1="0.937" x2="0.5" y2="-0.506" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Grupo_56772" data-name="Grupo 56772" transform="translate(-32.348 -5612.912)">
+    <rect id="Rectángulo_8298" data-name="Rectángulo 8298" width="184.661" height="267.825" rx="84.794" transform="translate(55.309 5731.131)" fill="#cafcf2"/>
+    <rect id="Rectángulo_8299" data-name="Rectángulo 8299" width="184.661" height="259.421" rx="79.5" transform="translate(489.502 5652.879)" fill="#cafcf2"/>
+    <rect id="Rectángulo_8300" data-name="Rectángulo 8300" width="184.661" height="259.421" rx="79.5" transform="translate(925.946 5722.625)" fill="#cafcf2"/>
+    <g id="Grupo_56749" data-name="Grupo 56749">
+      <path id="Trazado_101987" data-name="Trazado 101987" d="M852.2,6172.288H748.43a58.7,58.7,0,0,1-58.638-58.638V5694.371a56.807,56.807,0,0,0-56.743-56.742H530.728a56.807,56.807,0,0,0-56.743,56.742V6113.65a58.7,58.7,0,0,1-58.638,58.638H313.893a58.706,58.706,0,0,1-58.639-58.638V5772.232a56.807,56.807,0,0,0-56.743-56.743H100.892a60.935,60.935,0,0,0-60.866,60.866v135.94a.948.948,0,1,1-1.9,0v-135.94a62.833,62.833,0,0,1,62.762-62.762h97.619a58.705,58.705,0,0,1,58.639,58.639V6113.65a56.808,56.808,0,0,0,56.743,56.743H415.347a56.807,56.807,0,0,0,56.742-56.743V5694.371a58.706,58.706,0,0,1,58.639-58.638H633.049a58.7,58.7,0,0,1,58.638,58.638V6113.65a56.808,56.808,0,0,0,56.743,56.743H852.2a56.808,56.808,0,0,0,56.743-56.743V5772.03a58.705,58.705,0,0,1,58.638-58.639h97.331a62.834,62.834,0,0,1,62.762,62.762v124.88a.948.948,0,0,1-1.9,0v-124.88a60.935,60.935,0,0,0-60.866-60.866H967.578a56.807,56.807,0,0,0-56.742,56.743v341.62A58.706,58.706,0,0,1,852.2,6172.288Z" fill="#065949"/>
+    </g>
+    <g id="Grupo_56750" data-name="Grupo 56750">
+      <path id="Trazado_101988" data-name="Trazado 101988" d="M39.078,5924.807a6.73,6.73,0,1,1,6.73-6.73A6.738,6.738,0,0,1,39.078,5924.807Zm0-11.564a4.834,4.834,0,1,0,4.834,4.834A4.84,4.84,0,0,0,39.078,5913.243Z" fill="#003887"/>
+    </g>
+    <g id="Grupo_56751" data-name="Grupo 56751">
+      <path id="Trazado_101989" data-name="Trazado 101989" d="M1126.723,5913.731a6.73,6.73,0,1,1,6.73-6.73A6.738,6.738,0,0,1,1126.723,5913.731Zm0-11.564a4.834,4.834,0,1,0,4.834,4.834A4.84,4.84,0,0,0,1126.723,5902.167Z" fill="#065949"/>
+    </g>
+    <g id="Grupo_56752" data-name="Grupo 56752">
+      <circle id="Elipse_4097" data-name="Elipse 4097" cx="24.961" cy="24.961" r="24.961" transform="translate(122.679 5689.387)" fill="#f94e4e"/>
+      <text id="_1" data-name="1" transform="translate(140.021 5727.253)" fill="#fff" font-size="36.454" font-family="Montserrat-Black, Montserrat" font-weight="800"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g id="Grupo_56753" data-name="Grupo 56753">
+      <circle id="Elipse_4098" data-name="Elipse 4098" cx="24.961" cy="24.961" r="24.961" transform="translate(343.267 6147.327)" fill="#f94e4e"/>
+      <text id="_2" data-name="2" transform="translate(368.228 6185.194)" fill="#fff" font-size="36.454" font-family="Montserrat-Black, Montserrat" font-weight="800"><tspan x="-11.082" y="0">2</tspan></text>
+    </g>
+    <g id="Grupo_56754" data-name="Grupo 56754">
+      <circle id="Elipse_4099" data-name="Elipse 4099" cx="24.961" cy="24.961" r="24.961" transform="translate(775.596 6147.327)" fill="#f94e4e"/>
+      <text id="_4" data-name="4" transform="translate(800.557 6185.194)" fill="#fff" font-size="36.454" font-family="Montserrat-Black, Montserrat" font-weight="800"><tspan x="-12.977" y="0">4</tspan></text>
+    </g>
+    <g id="Grupo_56755" data-name="Grupo 56755">
+      <circle id="Elipse_4100" data-name="Elipse 4100" cx="24.961" cy="24.961" r="24.961" transform="translate(993.316 5689.647)" fill="#f94e4e"/>
+      <text id="_5" data-name="5" transform="translate(1018.277 5727.514)" fill="#fff" font-size="36.454" font-family="Montserrat-Black, Montserrat" font-weight="800"><tspan x="-11.282" y="0">5</tspan></text>
+    </g>
+    <g id="Grupo_56756" data-name="Grupo 56756">
+      <circle id="Elipse_4101" data-name="Elipse 4101" cx="24.961" cy="24.961" r="24.961" transform="translate(559.039 5612.913)" fill="#f94e4e"/>
+      <text id="_3" data-name="3" transform="translate(584 5650.779)" fill="#fff" font-size="36.454" font-family="Montserrat-Black, Montserrat" font-weight="800"><tspan x="-11.191" y="0">3</tspan></text>
+    </g>
+    <text id="I._Los_consejos_de_prudencia_referidos_a_consideraciones_generales_se_encuentran_codificados_en_el_rango_de_P100_y_P199._" data-name="I. Los consejos de prudencia referidos a consideraciones generales se encuentran codificados en el rango de P100 y P199. " transform="translate(78.553 5782.496)" fill="#065949" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="4.507" y="17">I. Los consejos de </tspan><tspan x="33.347" y="36.2">prudencia </tspan><tspan x="30.456" y="55.4">referidos a </tspan><tspan x="9.53" y="74.6" font-family="Roboto-Bold, Roboto" font-weight="700">consideraciones </tspan><tspan x="22.909" y="93.8" font-family="Roboto-Bold, Roboto" font-weight="700">generales</tspan><tspan y="93.8" xml:space="preserve"> se </tspan><tspan x="28.765" y="113">encuentran </tspan><tspan x="8.433" y="132.2">codificados en el </tspan><tspan x="11.229" y="151.4">rango de P100 y </tspan><tspan x="47.968" y="170.6">P199. </tspan></text>
+    <text id="III._Los_consejos_de_prudencia_referidos_a_la_intervención_están_codificados_en_el_rango_entre_P300_y_P399." data-name="III. Los consejos de prudencia referidos a la intervención están codificados en el rango entre P300 y P399." transform="translate(515.404 5719.313)" fill="#065949" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0.155" y="17">III. Los consejos de </tspan><tspan x="33.347" y="36.2">prudencia </tspan><tspan x="22.183" y="55.4">referidos a la </tspan><tspan x="2.112" y="74.6" font-family="Roboto-Bold, Roboto" font-weight="700">intervención</tspan><tspan y="74.6" xml:space="preserve"> están </tspan><tspan x="8.433" y="93.8">codificados en el </tspan><tspan x="1.769" y="113">rango entre P300 y </tspan><tspan x="47.968" y="132.2">P399.</tspan></text>
+    <text id="V._Los_referidos_a_la_eliminación_entre_P500_y_P599." data-name="V. Los referidos a la eliminación, entre P500 y P599." transform="translate(949.68 5786.784)" fill="#065949" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="7.187" y="17">V. Los referidos a </tspan><tspan x="17.808" y="36.2">la eliminación, </tspan><tspan x="1.507" y="55.4">entre P500 y P599.</tspan></text>
+    <text id="II._Los_consejos_de_prudencia_relacionados_con_la_prevención_están_codificados_en_el_rango_entre_P200_y_P299." data-name="II. Los consejos de prudencia relacionados con la prevención están codificados en el rango entre P200 y P299." transform="translate(299.632 5991.025)" fill="#065949" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="2.331" y="17">II. Los consejos de </tspan><tspan x="33.347" y="36.2">prudencia </tspan><tspan x="7.558" y="55.4">relacionados con </tspan><tspan x="20.483" y="74.6">la </tspan><tspan y="74.6" font-family="Roboto-Bold, Roboto" font-weight="700">prevención </tspan><tspan x="5.503" y="93.8">están codificados </tspan><tspan x="9.245" y="113">en el rango entre </tspan><tspan x="21.698" y="132.2">P200 y P299.</tspan></text>
+    <text id="IV._Los_referidos_al_almacenamiento_están_codificados_entre_P400_y_P499._" data-name="IV. Los referidos al almacenamiento están codificados entre P400 y P499.  " transform="translate(731.961 6031.77)" fill="#065949" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="3.069" y="17">IV. Los referidos al </tspan><tspan x="8.745" y="36.2" font-family="Roboto-Bold, Roboto" font-weight="700">almacenamiento </tspan><tspan x="5.503" y="55.4">están codificados </tspan><tspan x="1.507" y="74.6" xml:space="preserve">entre P400 y P499.  </tspan></text>
+    <g id="Grupo_56759" data-name="Grupo 56759">
+      <g id="Grupo_56757" data-name="Grupo 56757">
+        <rect id="Rectángulo_8301" data-name="Rectángulo 8301" width="54.703" height="54.703" rx="4.213" transform="translate(103.613 6007.933) rotate(-45)" fill="#d61b22"/>
+        <rect id="Rectángulo_8302" data-name="Rectángulo 8302" width="46.578" height="46.578" rx="5.574" transform="translate(109.358 6007.933) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_56758" data-name="Grupo 56758">
+        <circle id="Elipse_4102" data-name="Elipse 4102" cx="4.859" cy="4.859" r="4.859" transform="translate(137.439 6017.36)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_101990" data-name="Trazado 101990" d="M148.63,5993.656h0a6.432,6.432,0,1,0-12.768-1.111c0,.964,4.469,20.372,4.469,20.372h.062a2.082,2.082,0,0,0,4.045,0h0l.011-.05.009-.041Z" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Grupo_56762" data-name="Grupo 56762">
+      <g id="Grupo_56760" data-name="Grupo 56760">
+        <rect id="Rectángulo_8303" data-name="Rectángulo 8303" width="54.703" height="54.703" rx="4.213" transform="translate(329.547 5940.652) rotate(-45)" fill="#d61b22"/>
+        <rect id="Rectángulo_8304" data-name="Rectángulo 8304" width="46.578" height="46.578" rx="5.574" transform="translate(335.293 5940.652) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_56761" data-name="Grupo 56761">
+        <circle id="Elipse_4103" data-name="Elipse 4103" cx="4.859" cy="4.859" r="4.859" transform="translate(363.373 5950.08)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_101991" data-name="Trazado 101991" d="M374.565,5926.375h0a6.432,6.432,0,1,0-12.767-1.111c0,.963,4.468,20.371,4.468,20.371h.062a2.082,2.082,0,0,0,4.046,0h0l.011-.05.009-.04Z" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Grupo_56765" data-name="Grupo 56765">
+      <g id="Grupo_56763" data-name="Grupo 56763">
+        <rect id="Rectángulo_8305" data-name="Rectángulo 8305" width="54.703" height="54.703" rx="4.213" transform="translate(545.319 5913.731) rotate(-45)" fill="#d61b22"/>
+        <rect id="Rectángulo_8306" data-name="Rectángulo 8306" width="46.578" height="46.578" rx="5.574" transform="translate(551.065 5913.731) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_56764" data-name="Grupo 56764">
+        <circle id="Elipse_4104" data-name="Elipse 4104" cx="4.859" cy="4.859" r="4.859" transform="translate(579.146 5923.158)" fill="url(#linear-gradient-8)"/>
+        <path id="Trazado_101992" data-name="Trazado 101992" d="M590.337,5899.454h0a6.56,6.56,0,0,0,.1-1.111,6.432,6.432,0,0,0-12.865,0c0,.964,4.469,20.372,4.469,20.372h.062a2.082,2.082,0,0,0,4.045,0h0l.011-.05.008-.041Z" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Grupo_56768" data-name="Grupo 56768">
+      <g id="Grupo_56766" data-name="Grupo 56766">
+        <rect id="Rectángulo_8307" data-name="Rectángulo 8307" width="54.703" height="54.703" rx="4.213" transform="translate(761.876 5977.588) rotate(-45)" fill="#d61b22"/>
+        <rect id="Rectángulo_8308" data-name="Rectángulo 8308" width="46.578" height="46.578" rx="5.574" transform="translate(767.622 5977.588) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_56767" data-name="Grupo 56767">
+        <circle id="Elipse_4105" data-name="Elipse 4105" cx="4.859" cy="4.859" r="4.859" transform="translate(795.703 5987.016)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_101993" data-name="Trazado 101993" d="M806.894,5963.311h0a6.554,6.554,0,0,0,.1-1.111,6.432,6.432,0,1,0-12.865,0c0,.963,4.469,20.371,4.469,20.371h.062a2.082,2.082,0,0,0,4.045,0h0l.011-.05.008-.04Z" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Grupo_56771" data-name="Grupo 56771">
+      <g id="Grupo_56769" data-name="Grupo 56769">
+        <rect id="Rectángulo_8309" data-name="Rectángulo 8309" width="54.703" height="54.703" rx="4.213" transform="translate(979.596 5977.588) rotate(-45)" fill="#d61b22"/>
+        <rect id="Rectángulo_8310" data-name="Rectángulo 8310" width="46.578" height="46.578" rx="5.574" transform="translate(985.341 5977.588) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_56770" data-name="Grupo 56770">
+        <circle id="Elipse_4106" data-name="Elipse 4106" cx="4.859" cy="4.859" r="4.859" transform="translate(1013.422 5987.016)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_101994" data-name="Trazado 101994" d="M1024.613,5963.311h0a6.432,6.432,0,1,0-12.768-1.111c0,.963,4.469,20.371,4.469,20.371h.062a2.082,2.082,0,0,0,4.045,0h0l.011-.05.009-.04Z" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+  </g>
+</svg>

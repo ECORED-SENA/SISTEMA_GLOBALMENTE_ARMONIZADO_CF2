@@ -544,6 +544,395 @@
             .cajon.color-acento-contenido.p-4.mb-5
               p Criterios de clasificación para líquidos inflamables.  Fuente: Naciones Unidas, 2017. Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA). Sexta edición. Naciones Unidas. Nueva York y Ginebra 2017, p. 272.
 
+      .row.px-4(titulo="Sustancias y mezclas corrosivas para metales")
+        .col-md-8.mb-4.mb-md-0
+          p Se considera que un producto químico es corrosivo cuando en contacto con metales presenta reacción química y puede dañarlos e incluso destruirlos, según el SGA revisión sexta.
+            br
+            br
+            | La corrosión de un metal puede describirse como el desgaste de las capas superficiales del metal por acción química del producto químico.
+            br
+            br
+            | Existe solo una categoría para esta clase de peligro, en la cual se clasifica un producto químico, cuando la velocidad de degradación de placas metálicas de acero y aluminio es superior a 6,25 mm por año a una temperatura de ensayo de 55°C.
+            br
+            br
+            | Los productos químicos a los que se les asigna este pictograma deben almacenarse en sus envases originales o envases no metálicos para evitar daños y consecuentes derrames, en caso de ser sustancias o mezclas de carácter ácido o alcalino, deben mantenerse separados y agrupados de acuerdo con esa característica.
+
+        .col-md-4
+          img.mb-3(src='@/assets/curso/figure-33.svg', alt='Texto que describa la imagen')
+          a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p Enlace web. Para ampliar la información se recomienda consultar en el material complementario:
+                br
+                br
+                | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 2 Peligros físicos.
+
+    .titulo-segundo
+      .h4 1.2  Peligros para la salud humana
+
+    img.mb-5(src='@/assets/curso/figure-35.svg', alt='Texto que describa la imagen')
+
+    p.mb-5 Las clases de peligros para la salud de los productos químicos están íntimamente relacionadas con el nivel de exposición, en consecuencia, es posible considerar que algunas clases de peligros generan efectos adversos tras una única exposición (exposición aguda), como existen otros que requieren más de una exposición, para generar el efecto adverso a la salud (exposición crónica), como es el caso del peligro sensibilización cutánea y respiratoria.
+      br
+      br
+      | Los pictogramas que aparecen en la figura corresponden a los definidos por el SGA para los peligros para la salud.
+
+    .h5.mb-5 Toxicidad aguda
+
+    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          img(src='@/assets/curso/figure-36.svg', alt='Simbolos')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p La toxicidad aguda de una sustancia química se refiere a los efectos adversos (efectos que son sistémicos y generalizados) que se manifiestan tras la administración por vía oral o cutánea de una sola dosis de dicha sustancia, de dosis múltiples administradas a lo largo de 24 horas o como consecuencia de la inhalación por 4 horas de la sustancia, según el SGA revisión sexta.
+              br
+              br
+              | El criterio de clasificación utilizado para esta clase de peligros se relaciona con la dosis letal 50, que corresponde a la cantidad de un producto químico que, administrado en una sola dosis, mata el 50 % (la mitad) de los animales que han sido expuestos a la sustancia o mezcla química.
+
+    .row.mb-5
+      .col-md-8.mb-4.mb-md-0
+        p.mb-5 El pictograma que se presenta es el usado para comunicar este peligro y corresponde a una calavera humana con dos tibias cruzadas dentro del rombo de bordes rojo y, a pesar de que el mismo dibujo se ha usado en el pasado para comunicar peligro, debe aclararse que es utilizado en el SGA solo para las categorías de toxicidad aguda 1, 2 y 3, independiente de la vía de exposición que presente peligro (oral, dérmica o inhalatoria).
+          br
+          br
+          | Las sustancias que contengan este pictograma deben almacenarse en lugares con accesos restringidos, se recomienda usar elementos de protección personal, dependiendo de las vías de ingreso posibles al manipular productos químicos que estén dentro de esta clasificación.
+          br
+          br
+          | A los productos químicos clasificados como tóxicos agudos se les debe verificar periódicamente su contenido y estado de los envases, a fin de identificar fugas o sustracciones del producto, y así poder controlar oportunamente estos eventos.
+
+        a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p Enlace web. Para ampliar la información se recomienda consultar en el material complementario:
+              br
+              br
+              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
+
+      .col-md-4
+        img.px-4(src='@/assets/curso/figure-37.svg', alt='Nota. MinAmbiente (s.f.)')
+
+    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          img(src='@/assets/curso/figure-38.svg', alt='Simbolos')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p El pictograma en la imagen corresponde a aquellos peligros para la salud que se presentan generalmente como consecuencia de una exposición prolongada al producto químico. Es importante resaltar que el pictograma corresponde a una silueta humana que se deteriora desde el interior y se ubica al interior de un rombo de bordes rojos, según se muestra.
+              br
+              br
+              | Los pictogramas en el SGA no pretenden dar información sobre órganos afectados, sino que buscan comunicar información sobre el tipo de peligro presente. Se podría prestar a malas interpretaciones, el considerar que este pictograma muestra una parte del cuerpo afectada, hecho que no corresponde a la realidad.
+              br
+              br
+              | Los efectos adversos sobre la salud por las exposiciones crónicas son:
+
+    .row
+      .col-md-6.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-39.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-primario.text-white.p-4
+            .h4.text-center Sensibilización respiratoria:
+            p Es la hipersensibilidad de las vías respiratorias que ocurre tras la inhalación de un producto químico.
+
+      .col-md-6.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-acento-botones.p-4
+            .h4.text-center Mutagenicidad de las células germinales:
+            p Son las mutaciones genéticas hereditarias, incluidas las aberraciones cromosómicas estructurales y numéricas hereditarias en las células germinales, que ocurren tras la exposición a un producto químico.
+
+    // todo: corregir el tema de los elementos de dos columnas
+
+    p.mb-5 Asimismo, este pictograma es utilizado para peligros por aspiración, que corresponden a la entrada de un producto químico líquido o sólido directamente por la boca o la nariz, o indirectamente por regurgitación en la tráquea o en las vías respiratorias inferiores.
+
+    .h5.mb-5 Corrosión cutánea u ocular (corrosión/irritaciones cutáneas y lesiones oculares graves/irritación ocular)
+
+    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          img(src='@/assets/curso/figure-41.svg', alt='Simbolos')
+        .col-lg-8
+          .bloque-texto-a__texto.p-4
+            p Por corrosión cutánea se entiende la formación de una lesión irreversible de la piel, tal como necrosis visible a través de la epidermis hasta la dermis, tras la exposición a un producto químico hasta por 4 horas.
+              br
+              br
+              | Por lesión ocular grave se entiende aquella lesión del tejido ocular o degradación severa de la vista como consecuencia de la aplicación de una sustancia de ensayo en la superficie anterior del ojo y, que no es totalmente reversible en los 21 días seguidos a la aplicación, según el SGA revisión sexta.
+              br
+              br
+              | Los productos químicos con pH muy altos o bajos presentan un efecto corrosivo para la piel, es así como pH menores a 2 y superiores a 11.5, a falta de otra evidencia que lo soporte, puede ser considerado para clasificar un producto químico como corrosivo para la piel y generador de una lesión ocular grave, según el SGA revisión sexta.
+
+    .row.mb-5
+      .col-md-8.mb-4.mb-md-0
+        p.mb-5 El pictograma que se presenta en la imagen es utilizado para la presentación de un peligro de corrosión o irritación, sea esta cutánea u ocular.
+          br
+          br
+          | Este mismo pictograma es utilizado para un peligro físico (el correspondiente a sustancias y mezclas corrosivas para metales) como dos categorías de peligro para la salud (corrosión cutánea categoría 1 y lesiones oculares graves categoría 1).
+          br
+          br
+          | Al manipular productos químicos corrosivos se debe tomar las precauciones necesarias para evitar el contacto del producto químico con la piel y los ojos, así como no olvidar utilizar mecanismos de protección para vías respiratorias.
+
+        a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p Enlace web. Para ampliar la información se recomienda consultar en el material complementario:
+              br
+              br
+              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud.
+
+      .col-md-4
+        img.px-4(src='@/assets/curso/figure-42.svg', alt='Nota. MinAmbiente (s.f.)')
+
+    p.mb-5 Un efecto nocivo es aquel cuya afectación a la salud es por corto tiempo, después del contacto con el producto químico y sin ocasionar consecuencias letales en el individuo. Dentro de las clases y categorías de peligros considerados en el uso de este pictograma se encuentran:
+
+    .mb-5.px-4
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-43.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p <strong>Toxicidad aguda categoría 4</strong> (cualquiera de las vías de exposición, sean estas oral, dérmica o inhalatoria).
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-44.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p <strong>Sensibilización cutánea:</strong> es una clase de peligro que corresponde a la respuesta alérgica que ocurre tras el contacto de la piel con un producto químico. En cualquiera de sus tres categorías: 1,1A y 1B.
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-45.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p Toxicidad sistémica órgano diana tras una exposición única categoría 3.
+
+    a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank").mb-5
+      .anexo__icono
+        img(src="@/assets/template/icono-link.svg")
+      .anexo__texto
+        p Enlace web. Para ampliar la información se recomienda consultar en el material complementario:
+          br
+          br
+          | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud.
+
+    .row.mb-5
+      .col-md-7.mb-4.mb-md-0
+        p.mb-5 Los efectos irritantes pueden ser cutáneos u oculares.
+          br
+          br
+          | Por irritación cutánea se entiende la formación de una lesión reversible en la piel, tras la exposición de esta a un producto químico durante un período de 4 horas.
+          br
+          br
+          | Por irritación ocular se entiende la aparición de lesiones oculares como consecuencia de la aplicación de una sustancia de ensayo en la superficie anterior del ojo y, que son totalmente reversibles en los 21 días siguientes a la exposición del producto químico.
+          br
+          br
+          | La irritación cutánea/ocular puede ser causada por productos químicos que en concentraciones mayores generan corrosiones y, al estar diluidos el efecto se atenúa produciendo lesiones menores y sin necrosis en la piel.
+          br
+          br
+          | El pictograma que representa un efecto nocivo o irritación dérmica y ocular es un signo de admiración dibujado dentro de un rombo de bodes rojo.
+          br
+          br
+          | Este mismo pictograma es utilizado para indicar que un producto químico es nocivo para el medio ambiente (tema que se explicará más adelante).
+
+      .col-md-5
+        img.px-4(src='@/assets/curso/figure-46.svg', alt='Nota. MinAmbiente (s.f.)')
+
+    .titulo-segundo
+      .h4 1.3  Peligros para el medio ambiente
+
+    .row.no-gutters
+      .col-md-6.mb-4.mb-md-0.d-flex
+        img(src='@/assets/curso/figure-47.svg', alt='Nota. MinAmbiente (s.f.)')
+      .col-md-6.d-flex
+        .cajon.color-primario.p-4
+          .h5 Como se mencionó anteriormente, las clases de peligros para el medio ambiente consideradas por el SGA hacen referencia a los productos químicos que causan alteraciones en el medio ambiente acuático y/o que deterioran la capa de ozono.
+
+    .row.mb-5
+      .col-md-6.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-48.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-primario.text-white.p-4
+            .h4.text-center Peligro para el Medio Ambiente Acuatico
+
+      .col-md-6.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-49.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-acento-botones.p-4
+            .h4.text-center Peligro para la Capa de Ozono
+
+    .h5.mb-5 1.3.1. Clases de peligros para el medio ambiente
+
+    TabsB.color-acento-contenido.mb-5
+      .py-4.py-md-5(titulo="Clases de peligros para el medio ambiente" :icono="require('@/assets/curso/figure-50.svg')")
+        .row
+          .col-md-7.mb-4.mb-md-0
+            .h5 Clases de peligros para el medio ambiente
+            p.mb-5 El pictograma SGA presentado en la figura se utiliza para comunicar los peligros para el medio ambiente acuático, sean estos con efectos agudos o crónicos. Representa un pez muerto, un cuerpo de agua contaminado y un árbol muerto, comunica cualquiera de los peligros enumerados y, es utilizado para las siguientes categorías de peligros:
+            ul.mb-5.lista-ul--color
+              li
+                i.fas.fa-check
+                | Peligro a corto plazo para el medio ambiente acuático, categoría 1.
+                br
+                br
+              li
+                i.fas.fa-check
+                | Peligro a largo plazo para el medio ambiente acuático, categorías 1 y 2.
+                br
+                br
+            a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p Enlace web. Para ampliar el tema se recomienda consultar el material complementario:
+                  br
+                  br
+                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 4 Peligros para el medio ambiente.
+
+          .col-md-5
+            img.mb-4(src='@/assets/curso/figure-53.svg', alt='Iconos')
+            div
+              p Pictograma peligros para el medio ambiente SGA
+
+
+      .py-4.py-md-5(titulo="Peligro para la capa de ozono" :icono="require('@/assets/curso/figure-51.svg')")
+        .row
+          .col-md-7.mb-4.mb-md-0
+            .h5 Peligro para la capa de ozono
+            p.mb-5 El pictograma que corresponde al daño de la capa de ozono es el mismo signo de admiración utilizado para indicar un peligro con efecto nocivo para la salud.
+              br
+              br
+              | El peligro para la capa de ozono se mide como potencial de agotamiento de esta y es distinto para cada especie, fuente de halocarburos, que representa la medida en que el hidrocarburo puede reducir el ozono en la estratósfera, expresada en relación con el efecto de la misma masa de CFC-11, numeral 4.2.1 del SGA revisión sexta (cloro floro carbonado 11) y, las sustancias químicas que deterioran la capa de ozono se encuentran listadas en los anexos del protocolo de Montreal.
+
+            a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p Enlace web. Para ampliar el tema se recomienda consultar el material complementario:
+                  br
+                  br
+                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 4 Peligros para el medio ambiente.
+
+          .col-md-5
+            img.mb-4(src='@/assets/curso/figure-54.svg', alt='Iconos')
+            div
+              p Pictograma peligros para la capa de ozono SGA
+
+
+      .py-4.py-md-5(titulo="Indicaciones de peligros y consejos de prudencia" :icono="require('@/assets/curso/figure-52.svg')")
+        .row
+          .col-md-7.mb-4.mb-md-0
+            .h5 Indicaciones de peligros y consejos de prudencia
+            p.mb-5 Indicaciones de peligro: son frases que describen los peligros según su clasificación en categorías; las etiquetas de los productos que tengan más de un peligro deben contener una indicación adecuada para cada categoría de peligro que representa.
+              br
+              br
+              | En el SGA estas frases se encuentran codificadas y normalizadas para cada categoría de peligro.  El código de las indicaciones de peligro presenta como convención una letra H que precede tres dígitos (la H proviene del inglés Hazard – peligro).
+              br
+              br
+              | Si el primer dígito es un 2 la indicación de peligro hace alusión a un peligro físico.  Si el primer dígito del código es un 3, se hace referencia a un peligro para la salud y finalmente, si el primer dígito es un 4, se hace referencia a una indicación de peligro para el medio ambiente.
+
+          .col-md-5
+            img.mb-4(src='@/assets/curso/figure-55.svg', alt='Iconos')
+
+    .h5 Algunos ejemplos son:
+
+    .row.mb-5
+      .col-md-4.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-56.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-primario.text-white.p-4
+            .h4.text-center H201
+            p “Peligro de explosión en masa”.
+
+      .col-md-4.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-57.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-acento-botones.p-4
+            .h4.text-center H222
+            p “Aerosol extremadamente inflamable”.
+
+      .col-md-4.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-58.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-acento-botones.p-4
+            .h4.text-center H314
+            p “Provoca quemaduras graves en la piel y lesiones oculares graves”.
+
+    .row.mb-5
+      .col-md-4.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-59.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-primario.text-white.p-4
+            .h4.text-center H334
+            p “Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de inhalación”.
+
+      .col-md-4.col-lg.mb-5
+        .tarjeta-Avatar
+          img(src='@/assets/curso/figure-60.svg' alt='AvatarTop')
+          //- .tarjeta debe ir acompañado de una de una de estas clases =>
+          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
+          //- estas clases tambien tienen un modificador --borde
+          .tarjeta.color-acento-botones.p-4
+            .h4.text-center H410
+            p “Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos”.
+
+    // todo: elemento de imagen
+
+    p.mb-5 El objetivo de los consejos de prudencia es promover el uso correcto de los productos químicos peligrosos. Su codificación se caracteriza por el uso de la letra P (del inglés Prudence) que precede una cifra de tres dígitos:
+
+    img.mb-5(src='@/assets/curso/figure-61.svg' alt='AvatarTop')
+
+    p.mb-5 Por ejemplo:
+
+    .mb-5.px-4
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-62.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p P101 “Si se necesita consultar a un médico, tener a mano el recipiente o la etiqueta del producto”.
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-63.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p P202 “No manipular antes de haber leído y comprendido todas las precauciones de seguridad”.
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-64.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p P251 “No perforar ni quemar, incluso después de su uso”.
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-65.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p P370 + P378 En caso de incendio utilizar... para la extinción.
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-66.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p P301 + P312 “En caso de ingestión llamar a un centro de toxicología/médico/… si la persona se encuentra en mal estado”.
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-67.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p P403 + P235 Almacenar en un lugar bien ventilado y mantener fresco.
+      .tarjeta-Avatar-b.mb-5
+        img(src='@/assets/curso/figure-68.svg' alt='AvatarTop')
+        .tarjeta.tarjeta--azul.p-4
+          p P501 Eliminar el contenido/recipiente... conforme a la reglamentación nacional.
+
+
+
     //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
     //- se encuentra en src/components/Muestras.vue
     //- Una vez el componente "Muestras" no se necesite
