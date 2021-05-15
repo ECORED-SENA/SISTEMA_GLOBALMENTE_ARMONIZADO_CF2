@@ -342,19 +342,19 @@
             .h6.mb-0 ELEMENTOS / DESCRIPCION
           table
             tr
-              th(rowspan="3") PICTOGRAMA
+              th.TC1(rowspan="3") PICTOGRAMA
               td Símbolo NEGRO
             tr
               td Fondo BLANCO
             tr
               td Marco ROJO
             tr
-              th(rowspan="2") PALABRA DE ADVERTENCIA
+              th.TC2(rowspan="2") PALABRA DE ADVERTENCIA
               td Peligro (Mayor severidad)
             tr
               td Atención (Menor severidad)
             tr
-              th INDICACIÓN DE PELIGRO
+              th.TC1 INDICACIÓN DE PELIGRO
               td Describe la naturaleza del peligro y enuncia la forma como se materializa.
       .col-md-4
         img.px-4(src='@/assets/curso/figure-22.svg', alt='Nota. MinAmbiente (s.f.)')
@@ -366,11 +366,8 @@
       .col-md-6.mb-4.mb-md-0.d-flex
         img(src='@/assets/curso/figure-34.svg', alt='Nota. MinAmbiente (s.f.)')
       .col-md-6.d-flex
-        .cajon.color-primario.p-4.d-flex
-          table.d-flex
-            tbody
-              tr
-                td.align-middle Son diecisiete las clases de peligros físicos reconocidos en el SGA.  En la figura se presentan los pictogramas que se utilizan para representarlos.
+        .cajon.color-primario.p-4.d-flex.align-items-center.justify-content-center
+          p Son diecisiete las clases de peligros físicos reconocidos en el SGA.  En la figura se presentan los pictogramas que se utilizan para representarlos.
 
     img.mb-5(src='@/assets/curso/figure-24.svg', alt='Nota. MinAmbiente (s.f.)')
 
@@ -654,26 +651,75 @@
               br
               | Los efectos adversos sobre la salud por las exposiciones crónicas son:
 
-    .row
-      .col-md-6.col-lg.mb-5
-        .tarjeta-Avatar
-          img(src='@/assets/curso/figure-39.svg' alt='AvatarTop')
-          //- .tarjeta debe ir acompañado de una de una de estas clases =>
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
-          .tarjeta.color-primario.text-white.p-4
-            .h4.text-center Sensibilización respiratoria:
-            p Es la hipersensibilidad de las vías respiratorias que ocurre tras la inhalación de un producto químico.
+    .row.mb-4
+      .col-12.col-md-6
+        img.w-25.mx-auto.mmbn4(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
+        p.p-4.pt-5.bg-warning.rounded.mb-4 Es la hipersensibilidad de las vías respirato la hipersensibilidad de las vías respirato la hipersensibilidad de las vías respirato la hipersensibilidad de las vías respirato la hipersensibilidad de las vías respirato
 
-      .col-md-6.col-lg.mb-5
-        .tarjeta-Avatar
+        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p.text-size-14 
+                  strong Enlace web. Para ampliar la información se recomienda
+                  | consultar en el material complementario:
+                  br
+                  br
+                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
+      
+      .col-12.col-md-6
+        img.w-25.mx-auto.mmbn4(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
+        p.p-4.pt-5.bg-warning.rounded.mb-4 Es la hipersensibilidad de las vías respirato
+
+        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p.text-size-14 
+                  strong Enlace web. Para ampliar la información se recomienda
+                  | consultar en el material complementario:
+                  br
+                  br
+                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
+  
+
+    .row.mb-4
+      .col-12.col-md-6.d-flex
+        .tarjeta-Avatar.h-100
           img(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
-          //- .tarjeta debe ir acompañado de una de una de estas clases =>
-          //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-          //- estas clases tambien tienen un modificador --borde
-          .tarjeta.color-acento-botones.p-4
+          .tarjeta.color-primario.text-white.p-4.AltoNew
+            .h4.text-center Sensibilización respiratoria:
+            p.mb-4 Es la hipersensibilidad de las vías respiratorias que ocurre tras la inhalación de un producto químico.
+          
+            a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p.text-size-14 
+                  strong Enlace web. Para ampliar la información se recomienda
+                  | consultar en el material complementario:
+                  br
+                  br
+                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
+          
+      .col-12.col-md-6.d-flex
+        .tarjeta-Avatar.h-100
+          img(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
+          .tarjeta.color-acento-botones.p-4.AltoNew
             .h4.text-center Mutagenicidad de las células germinales:
-            p Son las mutaciones genéticas hereditarias, incluidas las aberraciones cromosómicas estructurales y numéricas hereditarias en las células germinales, que ocurren tras la exposición a un producto químico.
+            p.mb-4 Son las mutaciones genéticas hereditarias, incluidas las aberraciones cromosómicas estructurales y numéricas hereditarias en las células germinales, que ocurren tras la exposición a un producto químico.
+      
+            a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-link.svg")
+              .anexo__texto
+                p.text-size-14 
+                  strong Enlace web. Para ampliar la información se recomienda
+                  | consultar en el material complementario:
+                  br
+                  br
+                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
+        
 
     // todo: corregir el tema de los elementos de dos columnas
 
@@ -976,6 +1022,9 @@ export default {
   data: () => ({
     // variables de vue
   }),
+  methods: {
+    funcion1: () => {},
+  },
 }
 </script>
 
