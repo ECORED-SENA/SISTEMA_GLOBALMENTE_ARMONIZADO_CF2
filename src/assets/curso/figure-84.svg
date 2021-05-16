@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="429.729" height="387.439" viewBox="0 0 429.729 387.439">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.994" x2="0.5" y2="0.022" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.42" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="0.903" stop-color="#505052"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_57075" data-name="Grupo 57075" transform="translate(-1155.831 -9273.723)">
+    <g id="Grupo_57029" data-name="Grupo 57029">
+      <g id="Grupo_57028" data-name="Grupo 57028">
+        <g id="Grupo_57024" data-name="Grupo 57024">
+          <path id="Trazado_102484" data-name="Trazado 102484" d="M1238.465,9286.98l-59.385,1.155c-13.868,3.274-12.327,15.407-12.327,15.407v93.348s.839,1.663,1.337,2.459c3.69,5.9,20.4,10.35,40.458,10.35,18.7,0,34.5-3.871,39.536-9.176,1.093-1.152,3.478-3.633,3.478-3.633v-94.5C1251.305,9293.914,1238.465,9286.98,1238.465,9286.98Z" fill="#fff"/>
+          <path id="Trazado_102485" data-name="Trazado 102485" d="M1208.548,9410.438c-20.25,0-37.145-4.4-41.085-10.7-.51-.816-1.335-2.45-1.369-2.52l-.08-.156v-93.523c-.01-.034-1.452-12.738,12.9-16.125l.155-.021,59.581-1.159.17.092c.54.293,13.219,7.238,13.486,16.034v94.822l-.206.216s-2.384,2.479-3.477,3.63C1243.275,9406.657,1227.171,9410.438,1208.548,9410.438Zm-41.057-13.726c.218.427.838,1.626,1.224,2.246,3.627,5.8,20.379,10,39.833,10,17.96,0,34-3.678,39-8.947.9-.945,2.674-2.794,3.276-3.421v-94.206c-.225-7.422-11.066-13.825-12.545-14.664l-59.106,1.149c-12.989,3.112-11.747,14.11-11.688,14.579Z"/>
+        </g>
+        <g id="Grupo_57025" data-name="Grupo 57025">
+          <ellipse id="Elipse_4131" data-name="Elipse 4131" cx="32.357" cy="12.808" rx="32.357" ry="12.808" transform="translate(1176.961 9287.269)" fill="#fff"/>
+          <path id="Trazado_102486" data-name="Trazado 102486" d="M1209.318,9313.623c-18.559,0-33.1-5.95-33.1-13.546s14.537-13.546,33.1-13.546,33.095,5.949,33.095,13.546S1227.876,9313.623,1209.318,9313.623Zm0-25.616c-17.14,0-31.619,5.527-31.619,12.07s14.479,12.069,31.619,12.069,31.618-5.527,31.618-12.069S1226.457,9288.007,1209.318,9288.007Z"/>
+        </g>
+        <path id="Trazado_102487" data-name="Trazado 102487" d="M1237.341,9301.329l-48.439,1.926-7.126-1.926-4.815-1.252.738-10.087,20.641-7.536s18.778,1.829,19.452,2.021,17.238,2.5,17.238,2.5l4.719.77,1.926,2.023v10.816Z" fill="#fff"/>
+        <g id="Grupo_57026" data-name="Grupo 57026">
+          <ellipse id="Elipse_4132" data-name="Elipse 4132" cx="32.357" cy="12.808" rx="32.357" ry="12.808" transform="translate(1176.961 9274.461)" fill="#fff"/>
+          <path id="Trazado_102488" data-name="Trazado 102488" d="M1209.318,9300.815c-18.559,0-33.1-5.95-33.1-13.547s14.537-13.546,33.1-13.546,33.095,5.949,33.095,13.546S1227.876,9300.815,1209.318,9300.815Zm0-25.616c-17.14,0-31.619,5.527-31.619,12.069s14.479,12.07,31.619,12.07,31.618-5.528,31.618-12.07S1226.457,9275.2,1209.318,9275.2Z"/>
+        </g>
+        <rect id="Rectángulo_8510" data-name="Rectángulo 8510" width="1.477" height="12.23" transform="translate(1176.222 9289.099)"/>
+        <rect id="Rectángulo_8511" data-name="Rectángulo 8511" width="1.477" height="13.193" transform="translate(1240.937 9288.136)"/>
+        <g id="Grupo_57027" data-name="Grupo 57027">
+          <path id="Trazado_102489" data-name="Trazado 102489" d="M1172.724,9338.019v28.7s7.139,14.83,36.408,13.482,36.01-12.9,36.01-12.9l.963-29.276s-2.7,10.979-36.691,11.172S1172.724,9338.019,1172.724,9338.019Z" fill="#fff"/>
+          <path id="Trazado_102490" data-name="Trazado 102490" d="M1205.391,9381.025c-26.285,0-33.045-13.394-33.332-13.989a.724.724,0,0,1-.073-.32v-28.7a.739.739,0,0,1,.651-.733.722.722,0,0,1,.8.557c.043.158,3.222,10.613,35.127,10.613l.842,0c32.771-.187,35.952-10.514,35.979-10.618a.74.74,0,0,1,1.454.209l-.963,29.276a.741.741,0,0,1-.1.347c-.283.486-7.28,11.919-36.613,13.27Q1207.216,9381.026,1205.391,9381.025Zm-31.929-14.493c.825,1.47,8.8,14.146,35.635,12.93,26.657-1.229,34.4-11.09,35.313-12.4l.865-26.3c-3,3.418-11.6,9.03-35.856,9.168-24.465.173-33.043-5.7-35.957-9.2Zm-.738-28.514h0Z"/>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_102491" data-name="Trazado 102491" d="M1172.724,9338.019s4.237,10.319,35.844,10.437c27.158.1,36.707-7.7,36.707-7.7l337.785,92.663-424.088.642Z" fill="#fff" opacity="0.42"/>
+    <g id="Grupo_57036" data-name="Grupo 57036">
+      <rect id="Rectángulo_8512" data-name="Rectángulo 8512" width="424.729" height="225.027" transform="translate(1158.331 9433.424)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="5"/>
+      <rect id="Rectángulo_8513" data-name="Rectángulo 8513" width="222.441" height="45.523" transform="translate(1177.153 9446.614)"/>
+      <g id="Grupo_57034" data-name="Grupo 57034">
+        <g id="Grupo_57032" data-name="Grupo 57032">
+          <g id="Grupo_57031" data-name="Grupo 57031">
+            <g id="Grupo_57030" data-name="Grupo 57030">
+              <rect id="Rectángulo_8514" data-name="Rectángulo 8514" width="46.873" height="46.873" rx="3.61" transform="translate(1173.972 9530.456) rotate(-45)" fill="#d61b22"/>
+              <rect id="Rectángulo_8515" data-name="Rectángulo 8515" width="39.911" height="39.911" rx="4" transform="translate(1178.895 9530.455) rotate(-45)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_57033" data-name="Grupo 57033">
+          <path id="Trazado_102492" data-name="Trazado 102492" d="M1211.847,9540.474a8.978,8.978,0,1,0-9.517,0h-6.856v1.8h23.2v-1.8Zm-12.289-7.606a7.531,7.531,0,1,1,7.53,7.531A7.539,7.539,0,0,1,1199.558,9532.867Z" fill="url(#linear-gradient-2)"/>
+          <path id="Trazado_102493" data-name="Trazado 102493" d="M1196.258,9532.867a10.816,10.816,0,0,1,21.632-.109,16.386,16.386,0,0,0,.055-9.926s-2.362-4.006-2.3-7.314c0,0-1.644-.076-2.779,3.541a3.913,3.913,0,0,0-.737-3.854s-1.586-.92-1.214-2.153l.489-1.371a3.43,3.43,0,0,0-2.818,3.76,4.04,4.04,0,0,1-.294-3.348,6.089,6.089,0,0,0-.21-3.876s-.064,1.194-2.941,4.052-2.016,5.266-1.507,6.558c0,0-1.194-.353-1.038-2.388s-.254-2.585-1.272-3.034c0,0,.646,1.585-1.037,3.621a3.642,3.642,0,0,0-.535,3.594,4.666,4.666,0,0,0-3.341-2.694s1.135,1.391-.92,6.029c0,0-1.938,5.48.724,9.474h.054C1196.263,9533.242,1196.258,9533.055,1196.258,9532.867Z" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="Norma" style="isolation: isolate">
+        <text id="_2-_METIL_FLAMMALINE" data-name="2- METIL FLAMMALINE" transform="translate(1196.94 9456.458)" fill="#fff" font-size="17.103" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="18">2- METIL FLAMMALINE</tspan></text>
+      </g>
+      <g id="Grupo_57035" data-name="Grupo 57035">
+        <g id="Norma-2" data-name="Norma" style="isolation: isolate">
+          <text id="PALABRA_DE_ADVERTENCIA_véase_1.4.10.5.2_a_" data-name="PALABRA DE ADVERTENCIA (véase 1.4.10.5.2 a))" transform="translate(1292.034 9516.668)" font-size="12.642" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="13">PALABRA DE ADVERTENCIA</tspan><tspan y="13" xml:space="preserve" font-size="8.924"> (véase 1.4.10.5.2 a))</tspan></text>
+        </g>
+        <g id="Norma-3" data-name="Norma" style="isolation: isolate">
+          <text id="Indicación_de_peligro_véase_1.4.10.5.2_b_" data-name="Indicación de peligro (véase 1.4.10.5.2 b))" transform="translate(1294.103 9545.51)" font-size="8.924" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="9">Indicación de peligro (véase 1.4.10.5.2 b))</tspan></text>
+        </g>
+        <g id="Norma-4" data-name="Norma" style="isolation: isolate">
+          <text id="Identificación_del_producto" data-name="Identificación del producto" transform="translate(1427.287 9460.46)" font-size="10.411" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="11">Identificación del producto</tspan></text>
+        </g>
+        <g id="Norma-5" data-name="Norma" style="isolation: isolate">
+          <text id="_véase_1.4.10.5.2_d_" data-name="(véase 1.4.10.5.2 d))" transform="translate(1457.938 9478.09)" font-size="10.411" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="11">(véase 1.4.10.5.2 d))</tspan></text>
+        </g>
+        <g id="Norma-6" data-name="Norma" style="isolation: isolate">
+          <text id="Consejos_de_prudencia_véase_1.4.10.5.2_d_" data-name="Consejos de prudencia (véase 1.4.10.5.2 d))" transform="translate(1173.466 9586.724)" font-size="10.411" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="11">Consejos de prudencia (véase 1.4.10.5.2 d))</tspan></text>
+        </g>
+        <g id="Norma-7" data-name="Norma" style="isolation: isolate">
+          <text id="Información_adicional_cuando_lo_requiera_en_su_caso_la_autoridad_competente" data-name="Información adicional cuando lo requiera, en su caso, la autoridad competente" transform="translate(1186.75 9611.943)" font-size="10.411" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="11">Información adicional cuando lo requiera, en su caso, la autoridad competente</tspan></text>
+        </g>
+        <g id="Norma-8" data-name="Norma" style="isolation: isolate">
+          <text id="Identificación_del_proveedor_véase_1.4.10.5.2_e_" data-name="Identificación del proveedor (véase 1.4.10.5.2 e))" transform="translate(1173.466 9637.162)" font-size="10.411" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="11">Identificación del proveedor (véase 1.4.10.5.2 e))</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

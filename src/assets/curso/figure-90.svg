@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="782.182" height="271.761" viewBox="0 0 782.182 271.761">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.047" x2="0.5" y2="-0.03" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.42" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.937" x2="0.5" y2="-0.506" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="0.903" stop-color="#505052"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0.877" x2="0.5" y2="0.05" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Grupo_57142" data-name="Grupo 57142" transform="translate(-211.648 -1630.251)">
+    <rect id="Rectángulo_8582" data-name="Rectángulo 8582" width="377.324" height="266.761" transform="translate(614.006 1632.751)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="5"/>
+    <rect id="Rectángulo_8583" data-name="Rectángulo 8583" width="197.614" height="40.442" transform="translate(630.728 1644.47)"/>
+    <g id="Norma" style="isolation: isolate">
+      <text id="SOLUCIÓN_DE_BLAHZENE" data-name="SOLUCIÓN DE BLAHZENE" transform="translate(641.01 1653.863)" fill="#fff" font-size="15.194" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="2.076" y="16">SOLUCIÓN DE BLAHZENE</tspan></text>
+    </g>
+    <g id="Norma-2" data-name="Norma" style="isolation: isolate">
+      <text id="PALABRA_DE_ADVERTENCIA_véase_1.4.10.5.2_a_" data-name="PALABRA DE ADVERTENCIA (véase 1.4.10.5.2 a))" transform="translate(732.786 1706.254)" font-size="11.231" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="12">PALABRA DE ADVERTENCIA</tspan><tspan y="12" xml:space="preserve" font-size="7.928"> (véase 1.4.10.5.2 a))</tspan></text>
+    </g>
+    <g id="Norma-3" data-name="Norma" style="isolation: isolate">
+      <text id="Indicación_de_peligro_véase_1.4.10.5.2_b_" data-name="Indicación de peligro (véase 1.4.10.5.2 b))" transform="translate(734.624 1732.322)" font-size="7.928" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="8">Indicación de peligro (véase 1.4.10.5.2 b))</tspan></text>
+    </g>
+    <g id="Norma-4" data-name="Norma" style="isolation: isolate">
+      <text id="Identificación_del_producto" data-name="Identificación del producto" transform="translate(852.944 1656.543)" font-size="9.249" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="10">Identificación del producto</tspan></text>
+    </g>
+    <g id="Norma-5" data-name="Norma" style="isolation: isolate">
+      <text id="_véase_1.4.10.5.2_d_" data-name="(véase 1.4.10.5.2 d))" transform="translate(880.173 1672.205)" font-size="9.249" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="10">(véase 1.4.10.5.2 d))</tspan></text>
+    </g>
+    <g id="Norma-6" data-name="Norma" style="isolation: isolate">
+      <text id="Consejos_de_prudencia_véase_1.4.10.5.2_c_" data-name="Consejos de prudencia (véase 1.4.10.5.2 c))" transform="translate(627.452 1824.934)" font-size="9.249" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="10">Consejos de prudencia (véase 1.4.10.5.2 c))</tspan></text>
+    </g>
+    <g id="Norma-7" data-name="Norma" style="isolation: isolate">
+      <text id="Información_adicional_cuando_lo_requiera_en_su_caso_la_autoridad_competente" data-name="Información adicional cuando lo requiera, en su caso, la autoridad competente" transform="translate(639.253 1847.338)" font-size="9.249" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="10">Información adicional cuando lo requiera, en su caso, la autoridad competente</tspan></text>
+    </g>
+    <g id="Norma-8" data-name="Norma" style="isolation: isolate">
+      <text id="Identificación_del_proveedor_véase_1.4.10.5.2_e_" data-name="Identificación del proveedor (véase 1.4.10.5.2 e))" transform="translate(627.452 1869.742)" font-size="9.249" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="10">Identificación del proveedor (véase 1.4.10.5.2 e))</tspan></text>
+    </g>
+    <g id="Grupo_57141" data-name="Grupo 57141">
+      <g id="Grupo_57139" data-name="Grupo 57139">
+        <rect id="Rectángulo_8584" data-name="Rectángulo 8584" width="71.672" height="71.672" rx="0.955" transform="translate(625.285 1747.027) rotate(-45)" fill="#d61b22"/>
+        <rect id="Rectángulo_8585" data-name="Rectángulo 8585" width="61.026" height="61.026" rx="6.477" transform="translate(632.813 1747.027) rotate(-45)" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Grupo_57140" data-name="Grupo 57140">
+        <circle id="Elipse_4155" data-name="Elipse 4155" cx="6.366" cy="6.366" r="6.366" transform="translate(669.604 1759.378)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_102639" data-name="Trazado 102639" d="M684.267,1728.32h0a8.513,8.513,0,0,0,.128-1.455,8.428,8.428,0,0,0-16.856,0c0,1.262,5.855,26.69,5.855,26.69h.081a2.727,2.727,0,0,0,5.3,0h0l.015-.066.011-.052Z" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <rect id="Rectángulo_8586" data-name="Rectángulo 8586" width="153.733" height="260.711" transform="translate(221.746 1635.978)" fill="#fff" stroke="gray" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectángulo_8587" data-name="Rectángulo 8587" width="173.085" height="9.908" transform="translate(212.148 1631.024)" fill="#fff" stroke="gray" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectángulo_8588" data-name="Rectángulo 8588" width="173.085" height="9.908" transform="translate(212.148 1688.693)" fill="#fff" stroke="gray" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectángulo_8589" data-name="Rectángulo 8589" width="173.085" height="9.908" transform="translate(212.148 1842.426)" fill="#fff" stroke="gray" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectángulo_8590" data-name="Rectángulo 8590" width="173.085" height="9.908" transform="translate(212.148 1889.8)" fill="#fff" stroke="gray" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectángulo_8591" data-name="Rectángulo 8591" width="67.775" height="38.549" transform="translate(257.242 1794.51)" fill="#fff" stroke="gray" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Línea_159" data-name="Línea 159" y1="141.633" x2="320.127" transform="translate(314.934 1674.979)" fill="none" stroke="#963030" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

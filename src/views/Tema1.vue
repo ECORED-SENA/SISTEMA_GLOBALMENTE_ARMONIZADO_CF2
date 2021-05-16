@@ -1007,8 +1007,6 @@
             .h4.text-center H410
             p.text-center “Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos”.
 
-    // todo: elemento de imagen
-
     p.mb-5.text-justify El objetivo de los consejos de prudencia es promover el uso correcto de los productos químicos peligrosos. Su codificación se caracteriza por el uso de la letra P (del inglés Prudence) que precede una cifra de tres dígitos:
 
     img.mb-5(src='@/assets/curso/figure-61.svg' alt='AvatarTop')
@@ -1051,16 +1049,16 @@
     //- Una vez el componente "Muestras" no se necesite
     //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
     //- esto evitará que se compile en la carpeta final de distribución
-    //- Muestras
+    Muestras
 
 </template>
 
 <script>
-// import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
+import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
   components: {
-    // Muestras, // borrar una vez el componente "Muestras" no se necesite
+    Muestras, // borrar una vez el componente "Muestras" no se necesite
   },
   data: () => ({
     // variables de vue
