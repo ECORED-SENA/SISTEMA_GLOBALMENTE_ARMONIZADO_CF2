@@ -303,7 +303,6 @@
         .cajon.cajon_with_square_red.color-primario.p-4.d-flex.align-items-center.justify-content-center
           .h5.justify-text.px-4.pt-4 Nota:	la etiqueta SGA, el pictograma y las marcas del líquido inflamable requeridos por las “Recomendaciones relativas al transporte de mercancías peligrosas, reglamentación modelo” pueden presentarse también de forma combinada.
 
-
 </template>
 
 <script>
