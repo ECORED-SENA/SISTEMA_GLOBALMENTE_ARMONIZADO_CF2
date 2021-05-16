@@ -150,7 +150,9 @@
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
-                p Enlace web. Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 4 Peligros para el medio ambiente
+                p
+                strong Enlace web.
+                | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 4 Peligros para el medio ambiente
 
           .col-md-6
             .cajon.color-primario.p-4.mb-4
@@ -258,14 +260,15 @@
       .col-md-4
         img.px-4(src='@/assets/curso/figure-17.svg', alt='Nota. MinAmbiente (s.f.)')
 
-    .px-md-5
-      .bloque-texto-a.color-primario.p-4.p-md-5.mb-5
-        .row.m-0.align-items-center.justify-content-between
-          .col-lg-4.mb-4.mb-lg-0
-            h4 En el SGA las palabras de advertencia aceptadas son:
-          .col-lg-8
-            .bloque-texto-a__texto.p-4
-              p “peligro” (en inglés “danger”) y “atención” (en inglés “warning”). Jamás para el mismo producto químico se deben colocar juntas ambas palabras de advertencia. (Hoyos, 2017).
+    .row.justify-content-center
+      .col-10
+        .bloque-texto-a.color-primario.p-4.p-md-5.mb-5
+          .row.m-0.align-items-center.justify-content-between
+            .col-lg-4.mb-4.mb-lg-0
+              h4 En el SGA las palabras de advertencia aceptadas son:
+            .col-lg-8
+              .bloque-texto-a__texto.p-4
+                p “peligro” (en inglés “danger”) y “atención” (en inglés “warning”). Jamás para el mismo producto químico se deben colocar juntas ambas palabras de advertencia. (Hoyos, 2017).
 
     .row.mb-5
       .col-md-6.mb-4.mb-md-0
@@ -309,13 +312,13 @@
                 span Líquido y vapores
                   br
                   | extremadamente inflamables
-    .px-5
-      .px-5
+    .row.justify-content-center
+      .col-8
         .cajon.color-acento-contenido.p-4.mb-5
           p.justify-text Está indicación de peligro es una frase asignada a una clase o categoría de peligro, describe la naturaleza del peligro que presenta un producto y cuando corresponda el grado de peligro, además enuncia la forma como este se materializa. (Hoyos, 2017).
 
-    .row.mb-5
-      .col-md-8.mb-4.mb-md-0
+    .row.mb-5.justify-content-between
+      .col-md-7.mb-4.mb-md-0
         p.mb-4 Es así como en el pictograma la palabra de advertencia y la indicación de peligro son los elementos mínimos de la comunicación de peligros en el SGA, cada uno de ellos tiene una función específica y son complementarios para la comunicación de un peligro:
         ul.mb-4.lista-ul--color
           li
@@ -366,8 +369,8 @@
       .col-md-6.mb-4.mb-md-0.d-flex
         img(src='@/assets/curso/figure-34.svg', alt='Nota. MinAmbiente (s.f.)')
       .col-md-6.d-flex
-        .cajon.color-primario.p-4.d-flex.align-items-center.justify-content-center
-          p Son diecisiete las clases de peligros físicos reconocidos en el SGA.  En la figura se presentan los pictogramas que se utilizan para representarlos.
+        .cajon.cajon_with_square_red.color-primario.p-4.d-flex.align-items-center.justify-content-center
+          .h4.justify-text.px-4 Son diecisiete las clases de peligros físicos reconocidos en el SGA.  En la figura se presentan los pictogramas que se utilizan para representarlos.
 
     img.mb-5(src='@/assets/curso/figure-24.svg', alt='Nota. MinAmbiente (s.f.)')
 
@@ -582,18 +585,15 @@
                 br
                 | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 2 Peligros físicos.
 
-    .titulo-segundo
+    #t_1_2.titulo-segundo
       .h4 1.2  Peligros para la salud humana
 
     .row.no-gutters.mb-5
       .col-md-6.mb-4.mb-md-0.d-flex
         img(src='@/assets/curso/figure-69.svg', alt='Nota. MinAmbiente (s.f.)')
       .col-md-6.d-flex
-        .cajon.color-acento-contenido.p-4.d-flex
-          table.d-flex
-            tbody
-              tr
-                td.align-middle Los peligros para la salud se refieren a aquellas características intrínsecas de los productos químicos que producen daños a la salud humana e incluso la muerte, en el SGA se presentan 10 peligros para la salud:
+        .cajon.cajon_with_square_green.color-acento-contenido.p-4.d-flex.align-items-center.justify-content-center
+          .h4.justify-text.px-4 Los peligros para la salud se refieren a aquellas características intrínsecas de los productos químicos que producen daños a la salud humana e incluso la muerte, en el SGA se presentan 10 peligros para la salud:
 
     img.mb-5(src='@/assets/curso/figure-35.svg', alt='Texto que describa la imagen')
 
@@ -653,75 +653,118 @@
 
     .row.mb-4
       .col-12.col-md-6
-        img.w-25.mx-auto.mmbn4(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
-        p.p-4.pt-5.bg-warning.rounded.mb-4 Es la hipersensibilidad de las vías respirato la hipersensibilidad de las vías respirato la hipersensibilidad de las vías respirato la hipersensibilidad de las vías respirato la hipersensibilidad de las vías respirato
+        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-39.svg' alt='AvatarTop')
+        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+          span.fw-bold(style="font-size: 20px") Sensibilización respiratoria:
+          br
+          br
+          | Es la hipersensibilidad de las vías respiratorias que ocurre tras la inhalación de un producto químico.
 
         a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p.text-size-14 
-                  strong Enlace web. Para ampliar la información se recomienda
-                  | consultar en el material complementario:
-                  br
-                  br
-                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
-      
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p.text-size-14
+              strong Enlace web. Para ampliar la información se recomienda
+              | consultar en el material complementario:
+              br
+              br
+              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
+
       .col-12.col-md-6
-        img.w-25.mx-auto.mmbn4(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
-        p.p-4.pt-5.bg-warning.rounded.mb-4 Es la hipersensibilidad de las vías respirato
+        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
+        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+          span.fw-bold(style="font-size: 20px") Mutagenicidad de las células germinales:
+          br
+          br
+          | Son las mutaciones genéticas hereditarias, incluidas las aberraciones cromosómicas estructurales y numéricas hereditarias en las células germinales, que ocurren tras la exposición a un producto químico.
 
         a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p.text-size-14 
-                  strong Enlace web. Para ampliar la información se recomienda
-                  | consultar en el material complementario:
-                  br
-                  br
-                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
-  
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p.text-size-14
+              strong Enlace web. Para ampliar la información se recomienda
+              | consultar en el material complementario:
+              br
+              br
+              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 173.
 
-    .row.mb-4
-      .col-12.col-md-6.d-flex
-        .tarjeta-Avatar.h-100
-          img(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
-          .tarjeta.color-primario.text-white.p-4.AltoNew
-            .h4.text-center Sensibilización respiratoria:
-            p.mb-4 Es la hipersensibilidad de las vías respiratorias que ocurre tras la inhalación de un producto químico.
-          
-            a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p.text-size-14 
-                  strong Enlace web. Para ampliar la información se recomienda
-                  | consultar en el material complementario:
-                  br
-                  br
-                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
-          
-      .col-12.col-md-6.d-flex
-        .tarjeta-Avatar.h-100
-          img(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
-          .tarjeta.color-acento-botones.p-4.AltoNew
-            .h4.text-center Mutagenicidad de las células germinales:
-            p.mb-4 Son las mutaciones genéticas hereditarias, incluidas las aberraciones cromosómicas estructurales y numéricas hereditarias en las células germinales, que ocurren tras la exposición a un producto químico.
-      
-            a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p.text-size-14 
-                  strong Enlace web. Para ampliar la información se recomienda
-                  | consultar en el material complementario:
-                  br
-                  br
-                  | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
-        
+      .col-12.col-md-6
+        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-70.svg' alt='AvatarTop')
+        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+          span.fw-bold(style="font-size: 20px") Carcinogenicidad:
+          br
+          br
+          | Es la inducción de cáncer o el aumento de su incidencia, tras la exposición a un producto químico.
 
-    // todo: corregir el tema de los elementos de dos columnas
+        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p.text-size-14
+              strong Enlace web. Para ampliar la información se recomienda
+              | consultar en el material complementario:
+              br
+              br
+              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 181.
+
+      .col-12.col-md-6
+        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-71.svg' alt='AvatarTop')
+        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+          span.fw-bold(style="font-size: 20px") Toxicidad para la reproducción:
+          br
+          br
+          | Son los efectos adversos sobre la función sexual y la fertilidad de los hombres y mujeres adultos, y los efectos adversos sobre el desarrollo de los descendientes, tras la exposición a un producto químico.
+
+        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p.text-size-14
+              strong Enlace web. Para ampliar la información se recomienda
+              | consultar en el material complementario:
+              br
+              br
+              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 203.
+
+      .col-12.col-md-6
+        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-72.svg' alt='AvatarTop')
+        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+          span.fw-bold(style="font-size: 20px") Toxicidad específica en órganos diana tras una exposición única:
+          br
+          br
+          | Son los efectos tóxicos no letales y específicos de órganos diana, que ocurren tras una exposición única a un producto químico.
+
+        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p.text-size-14
+              strong Enlace web. Para ampliar la información se recomienda
+              | consultar en el material complementario:
+              br
+              br
+              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 203.
+
+      .col-12.col-md-6
+        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-73.svg' alt='AvatarTop')
+        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+          span.fw-bold(style="font-size: 20px") Toxicidad específica de órganos diana tras una exposición repetida:
+          br
+          br
+          | Son los efectos tóxicos no letales y específicos de órganos diana, que ocurren tras la exposición repetida a un producto químico, categorías 1 y 2.
+
+        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p.text-size-14
+              strong Enlace web. Para ampliar la información se recomienda
+              | consultar en el material complementario:
+              br
+              br
+              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 215.
 
     p.mb-5.justify-text Asimismo, este pictograma es utilizado para peligros por aspiración, que corresponden a la entrada de un producto químico líquido o sólido directamente por la boca o la nariz, o indirectamente por regurgitación en la tráquea o en las vías respiratorias inferiores.
 
@@ -769,7 +812,7 @@
       .tarjeta-Avatar-b.mb-5
         img(src='@/assets/curso/figure-43.svg' alt='AvatarTop' style="height: 120px")
         .tarjeta.color-primario-mas-claro2.p-4.w-100
-          p <strong>Toxicidad aguda categoría 4</strong> (cualquiera de las vías de exposición, sean estas oral, dérmica o inhalatoria).
+          p.h-100 <strong>Toxicidad aguda categoría 4</strong> (cualquiera de las vías de exposición, sean estas oral, dérmica o inhalatoria).
       .tarjeta-Avatar-b.mb-5
         img(src='@/assets/curso/figure-44.svg' alt='AvatarTop' style="height: 120px")
         .tarjeta.color-primario-mas-claro2.p-4.w-100
@@ -810,15 +853,15 @@
       .col-md-5
         img.px-4(src='@/assets/curso/figure-46.svg', alt='Nota. MinAmbiente (s.f.)')
 
-    .titulo-segundo
+    #t_1_3.titulo-segundo
       .h4 1.3  Peligros para el medio ambiente
 
     .row.no-gutters.mb-5
       .col-md-6.mb-4.mb-md-0.d-flex
         img(src='@/assets/curso/figure-47.svg', alt='Nota. MinAmbiente (s.f.)')
       .col-md-6.d-flex
-        .cajon.color-primario.p-4
-          .h5 Como se mencionó anteriormente, las clases de peligros para el medio ambiente consideradas por el SGA hacen referencia a los productos químicos que causan alteraciones en el medio ambiente acuático y/o que deterioran la capa de ozono.
+        .cajon.cajon_with_square_red.color-primario.p-4.d-flex.align-items-center.justify-content-center
+          .h4.justify-text.px-4 Como se mencionó anteriormente, las clases de peligros para el medio ambiente consideradas por el SGA hacen referencia a los productos químicos que causan alteraciones en el medio ambiente acuático y/o que deterioran la capa de ozono.
 
     .row.mb-5
       .col-md-6.col-lg.mb-5
