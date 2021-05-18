@@ -195,7 +195,7 @@
 
     .h5 A continuación, se presentan algunos ejemplos
 
-    TabsA.color-acento-botones.mb-5
+    TabsA.color-acento-contenido.mb-5
       .tarjeta(titulo="Ejemplo 1")
         .p-3.color-tarjeta-rojo-claro.mb-4
           .p-3(style="border: 2px solid white")

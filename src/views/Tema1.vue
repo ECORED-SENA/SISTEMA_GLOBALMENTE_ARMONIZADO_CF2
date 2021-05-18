@@ -651,120 +651,235 @@
               br
               | Los efectos adversos sobre la salud por las exposiciones crónicas son:
 
-    .row.mb-4
-      .col-12.col-md-6
-        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-39.svg' alt='AvatarTop')
-        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+    .mb-5
+      .tarjeta-Avatar-b.mb-2
+        img(src='@/assets/curso/figure-39.svg' alt='AvatarTop' style="height: 120px")
+        .tarjeta.color-primario-mas-claro2.p-4.w-100
           span.fw-bold(style="font-size: 20px") Sensibilización respiratoria:
           br
-          br
           | Es la hipersensibilidad de las vías respiratorias que ocurre tras la inhalación de un producto químico.
+      .row.justify-content-center.mb-5
+        .col-9
+          a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p.text-size-14
+                strong Enlace web. Para ampliar la información se recomienda
+                | consultar en el material complementario:
+                br
+                br
+                | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
 
-        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.text-size-14
-              strong Enlace web. Para ampliar la información se recomienda
-              | consultar en el material complementario:
-              br
-              br
-              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
-
-      .col-12.col-md-6
-        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
-        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      .tarjeta-Avatar-b.mb-2
+        img(src='@/assets/curso/figure-40.svg' alt='AvatarTop' style="height: 120px")
+        .tarjeta.color-primario-mas-claro2.p-4.w-100
           span.fw-bold(style="font-size: 20px") Mutagenicidad de las células germinales:
           br
-          br
           | Son las mutaciones genéticas hereditarias, incluidas las aberraciones cromosómicas estructurales y numéricas hereditarias en las células germinales, que ocurren tras la exposición a un producto químico.
+      .row.justify-content-center.mb-5
+        .col-9
+          a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p.text-size-14
+                strong Enlace web. Para ampliar la información se recomienda
+                | consultar en el material complementario:
+                br
+                br
+                | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 173.
 
-        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.text-size-14
-              strong Enlace web. Para ampliar la información se recomienda
-              | consultar en el material complementario:
-              br
-              br
-              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 173.
-
-      .col-12.col-md-6
-        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-70.svg' alt='AvatarTop')
-        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      .tarjeta-Avatar-b.mb-2
+        img(src='@/assets/curso/figure-70.svg' alt='AvatarTop' style="height: 120px")
+        .tarjeta.color-primario-mas-claro2.p-4.w-100
           span.fw-bold(style="font-size: 20px") Carcinogenicidad:
           br
-          br
           | Es la inducción de cáncer o el aumento de su incidencia, tras la exposición a un producto químico.
+      .row.justify-content-center.mb-5
+        .col-9
+          a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p.text-size-14
+                strong Enlace web. Para ampliar la información se recomienda
+                | consultar en el material complementario:
+                br
+                br
+                | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 181.
 
-        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.text-size-14
-              strong Enlace web. Para ampliar la información se recomienda
-              | consultar en el material complementario:
-              br
-              br
-              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 181.
-
-      .col-12.col-md-6
-        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-71.svg' alt='AvatarTop')
-        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      .tarjeta-Avatar-b.mb-2
+        img(src='@/assets/curso/figure-71.svg' alt='AvatarTop' style="height: 120px")
+        .tarjeta.color-primario-mas-claro2.p-4.w-100
           span.fw-bold(style="font-size: 20px") Toxicidad para la reproducción:
           br
-          br
           | Son los efectos adversos sobre la función sexual y la fertilidad de los hombres y mujeres adultos, y los efectos adversos sobre el desarrollo de los descendientes, tras la exposición a un producto químico.
+      .row.justify-content-center.mb-5
+        .col-9
+          a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p.text-size-14
+                strong Enlace web. Para ampliar la información se recomienda
+                | consultar en el material complementario:
+                br
+                br
+                | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 203.
 
-        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.text-size-14
-              strong Enlace web. Para ampliar la información se recomienda
-              | consultar en el material complementario:
-              br
-              br
-              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 203.
-
-      .col-12.col-md-6
-        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-72.svg' alt='AvatarTop')
-        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      .tarjeta-Avatar-b.mb-2
+        img(src='@/assets/curso/figure-72.svg' alt='AvatarTop' style="height: 120px")
+        .tarjeta.color-primario-mas-claro2.p-4.w-100
           span.fw-bold(style="font-size: 20px") Toxicidad específica en órganos diana tras una exposición única:
           br
-          br
           | Son los efectos tóxicos no letales y específicos de órganos diana, que ocurren tras una exposición única a un producto químico.
+      .row.justify-content-center.mb-5
+        .col-9
+          a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p.text-size-14
+                strong Enlace web. Para ampliar la información se recomienda
+                | consultar en el material complementario:
+                br
+                br
+                | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 203.
 
-        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.text-size-14
-              strong Enlace web. Para ampliar la información se recomienda
-              | consultar en el material complementario:
-              br
-              br
-              | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 203.
-
-      .col-12.col-md-6
-        img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-73.svg' alt='AvatarTop')
-        p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      .tarjeta-Avatar-b.mb-2
+        img(src='@/assets/curso/figure-73.svg' alt='AvatarTop' style="height: 120px")
+        .tarjeta.color-primario-mas-claro2.p-4.w-100
           span.fw-bold(style="font-size: 20px") Toxicidad específica de órganos diana tras una exposición repetida:
           br
-          br
           | Son los efectos tóxicos no letales y específicos de órganos diana, que ocurren tras la exposición repetida a un producto químico, categorías 1 y 2.
-
-        a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-link.svg")
-          .anexo__texto
-            p.text-size-14
-              strong Enlace web. Para ampliar la información se recomienda
+      .row.justify-content-center.mb-5
+        .col-9
+          a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p.text-size-14
+                strong Enlace web. Para ampliar la información se recomienda
               | consultar en el material complementario:
               br
               br
               | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 215.
+
+
+      //- .col-12.col-md-6
+      //-   img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-39.svg' alt='AvatarTop')
+      //-   p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      //-     span.fw-bold(style="font-size: 20px") Sensibilización respiratoria:
+      //-     br
+      //-     br
+      //-     | Es la hipersensibilidad de las vías respiratorias que ocurre tras la inhalación de un producto químico.
+
+      //-   a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+      //-     .anexo__icono
+      //-       img(src="@/assets/template/icono-link.svg")
+      //-     .anexo__texto
+      //-       p.text-size-14
+      //-         strong Enlace web. Para ampliar la información se recomienda
+      //-         | consultar en el material complementario:
+      //-         br
+      //-         br
+      //-         | Comisión Económica de las Naciones Unidas para Europa (UNECE), (s.f). Parte 3 Peligros para la salud
+
+      //- .col-12.col-md-6
+      //-   img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-40.svg' alt='AvatarTop')
+      //-   p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      //-     span.fw-bold(style="font-size: 20px") Mutagenicidad de las células germinales:
+      //-     br
+      //-     br
+      //-     | Son las mutaciones genéticas hereditarias, incluidas las aberraciones cromosómicas estructurales y numéricas hereditarias en las células germinales, que ocurren tras la exposición a un producto químico.
+
+      //-   a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+      //-     .anexo__icono
+      //-       img(src="@/assets/template/icono-link.svg")
+      //-     .anexo__texto
+      //-       p.text-size-14
+      //-         strong Enlace web. Para ampliar la información se recomienda
+      //-         | consultar en el material complementario:
+      //-         br
+      //-         br
+      //-         | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 173.
+
+      //- .col-12.col-md-6
+      //-   img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-70.svg' alt='AvatarTop')
+      //-   p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      //-     span.fw-bold(style="font-size: 20px") Carcinogenicidad:
+      //-     br
+      //-     br
+      //-     | Es la inducción de cáncer o el aumento de su incidencia, tras la exposición a un producto químico.
+
+      //-   a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+      //-     .anexo__icono
+      //-       img(src="@/assets/template/icono-link.svg")
+      //-     .anexo__texto
+      //-       p.text-size-14
+      //-         strong Enlace web. Para ampliar la información se recomienda
+      //-         | consultar en el material complementario:
+      //-         br
+      //-         br
+      //-         | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 181.
+
+      //- .col-12.col-md-6
+      //-   img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-71.svg' alt='AvatarTop')
+      //-   p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      //-     span.fw-bold(style="font-size: 20px") Toxicidad para la reproducción:
+      //-     br
+      //-     br
+      //-     | Son los efectos adversos sobre la función sexual y la fertilidad de los hombres y mujeres adultos, y los efectos adversos sobre el desarrollo de los descendientes, tras la exposición a un producto químico.
+
+      //-   a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+      //-     .anexo__icono
+      //-       img(src="@/assets/template/icono-link.svg")
+      //-     .anexo__texto
+      //-       p.text-size-14
+      //-         strong Enlace web. Para ampliar la información se recomienda
+      //-         | consultar en el material complementario:
+      //-         br
+      //-         br
+      //-         | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 203.
+
+      //- .col-12.col-md-6
+      //-   img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-72.svg' alt='AvatarTop')
+      //-   p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      //-     span.fw-bold(style="font-size: 20px") Toxicidad específica en órganos diana tras una exposición única:
+      //-     br
+      //-     br
+      //-     | Son los efectos tóxicos no letales y específicos de órganos diana, que ocurren tras una exposición única a un producto químico.
+
+      //-   a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+      //-     .anexo__icono
+      //-       img(src="@/assets/template/icono-link.svg")
+      //-     .anexo__texto
+      //-       p.text-size-14
+      //-         strong Enlace web. Para ampliar la información se recomienda
+      //-         | consultar en el material complementario:
+      //-         br
+      //-         br
+      //-         | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 203.
+
+      //- .col-12.col-md-6
+      //-   img.w-25.mx-auto.mmbn4.img-height(src='@/assets/curso/figure-73.svg' alt='AvatarTop')
+      //-   p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
+      //-     span.fw-bold(style="font-size: 20px") Toxicidad específica de órganos diana tras una exposición repetida:
+      //-     br
+      //-     br
+      //-     | Son los efectos tóxicos no letales y específicos de órganos diana, que ocurren tras la exposición repetida a un producto químico, categorías 1 y 2.
+
+      //-   a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+      //-     .anexo__icono
+      //-       img(src="@/assets/template/icono-link.svg")
+      //-     .anexo__texto
+      //-       p.text-size-14
+      //-         strong Enlace web. Para ampliar la información se recomienda
+      //-         | consultar en el material complementario:
+      //-         br
+      //-         br
+      //-         | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 3 Peligros para la salud, p. 215.
 
     p.mb-5.justify-text Asimismo, este pictograma es utilizado para peligros por aspiración, que corresponden a la entrada de un producto químico líquido o sólido directamente por la boca o la nariz, o indirectamente por regurgitación en la tráquea o en las vías respiratorias inferiores.
 
