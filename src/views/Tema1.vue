@@ -68,11 +68,13 @@
           .h4.mb-2 En términos del SGA, un producto químico peligroso es aquel que presenta peligro físico para la salud y/o para el medio ambiente
           div.px-4(style="text-align: right") (Hoyos 2017)
 
-    img.mb-5(src='@/assets/curso/figure-6.svg', alt='Simbolos')
+    .row.justify-content-center
+      .col-12.col-lg-10
+        img.mb-5(src='@/assets/curso/figure-6.svg', alt='Simbolos')
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Peligros físicos")
-        .h3 Peligros físicos
+        p.fw-bold.mb-4(style="font-size: 20px") Peligros físicos
         p.mb-4.justify-text Los peligros físicos son aquellas características intrínsecas de los productos químicos que están fundamentadas en sus propiedades físicas y químicas, cuyos efectos adversos pueden afectar directamente el entorno y a las personas que se encuentren en él.
           br
           br
@@ -88,7 +90,7 @@
                 p.h4(style="text-weigth: 800; text-align: right;") (Hoyos, 2017).
 
       .py-3.py-md-4(titulo="Peligros para la salud")
-        .h3 Peligros para la salud
+        p.fw-bold.mb-4(style="font-size: 20px") Peligros para la salud
         .row
           .col-md-6.mb-4.mb-md-0
             p.mb-4.justify-text Las clases de peligro clasificadas dentro de los peligros para la salud corresponden a aquellas cuyos efectos adversos son generados directamente sobre las personas, afectando el correcto desempeño del cuerpo, ya sea a corto plazo (efecto agudo) o a largo plazo (efecto crónico) sobre la salud de los individuos expuestos.
@@ -132,7 +134,7 @@
             img(src='@/assets/curso/figure-8.svg', alt='Simbolos')
 
       .py-3.py-md-4(titulo="Peligros para el medio ambiente")
-        .h3.mb-5 Peligros para el medio ambiente
+        p.fw-bold.mb-4(style="font-size: 20px") Peligros para el medio ambiente
         .row
           .col-md-6.mb-4.mb-md-0
             p.mb-4.justify-text Las clases de peligro agrupadas como peligros para el medio ambiente son aquellos presentes en un producto químico y cuyos efectos adversos se dan sobre los ecosistemas, afectando la fauna y flora.
@@ -175,78 +177,80 @@
       br
       | Según SGA revisión sexta, en el capítulo 1.2 definiciones y abreviaturas, la clasificación del peligro de un producto químico parte de:
 
-    .row.mb-5
-      .col-md-4.mb-4.mb-md-0
-        img.mb-4(src='@/assets/curso/figure-11.svg', alt='Nota. MinAmbiente (s.f.)')
-        p La identificación de los datos confiables y relevantes acorde a metodologías internacionalmente reconocidas sobre los peligros del producto químico.
-      .col-md-4.mb-4.mb-md-0
-        img.mb-4(src='@/assets/curso/figure-12.svg', alt='Nota. MinAmbiente (s.f.)')
-        p El examen posterior de estos datos para identificar los peligros asociados al producto químico.
-      .col-md-4.mb-4.mb-md-0
-        img.mb-4(src='@/assets/curso/figure-13.svg', alt='Nota. MinAmbiente (s.f.)')
-        p Decidir si el producto químico se clasificará como un producto químico peligroso y determinar su grado de peligrosidad (categoría).
+    .row.justify-content-center
+      .col-12.col-lg-11
+        .row.mb-5
+          .col-md-4.mb-4.mb-md-0
+            img.mb-4(src='@/assets/curso/figure-11.svg', alt='Nota. MinAmbiente (s.f.)')
+            p La identificación de los datos confiables y relevantes acorde a metodologías internacionalmente reconocidas sobre los peligros del producto químico.
+          .col-md-4.mb-4.mb-md-0
+            img.mb-4(src='@/assets/curso/figure-12.svg', alt='Nota. MinAmbiente (s.f.)')
+            p El examen posterior de estos datos para identificar los peligros asociados al producto químico.
+          .col-md-4.mb-4.mb-md-0
+            img.mb-4(src='@/assets/curso/figure-13.svg', alt='Nota. MinAmbiente (s.f.)')
+            p Decidir si el producto químico se clasificará como un producto químico peligroso y determinar su grado de peligrosidad (categoría).
 
-    .tabla-a.color-acento-contenido.mb-5
-      table
-        caption
-        thead
-          tr
-            th(colspan="2") Clasificacion
-            th(colspan="4") Etiquetado
-            th Codigo de indicación de peligro
-        tbody
-          tr
-            td(rowspan="2" style="text-align: center;") Clase de peligro
-            td(rowspan="2" style="text-align: center;") Categoria de peligro
-            td(colspan="2" style="text-align: center;") Pictograma
-            td(rowspan="2" style="text-align: center;") Palabra de advertencia
-            td(rowspan="2" style="text-align: center;") Indicacion de peligro
-            td(rowspan="2")
-          tr
-            td(style="text-align: center;") SGA
-            td(style="text-align: center;") Reglamentacion Modelo de las Naciones Unidas
-          tr
-            td(rowspan="4" style="text-align: center;") Líquidos infamables
-            td 1
-            td
-              img(src='@/assets/curso/figure-14.svg', alt='Señal SGA', style="height: 60%;")
-            td
-              img(src='@/assets/curso/figure-15.svg', alt='Señal SGA', style="height: 60%;")
-            td Peligro
-            td Líquido y vapores extremadamente inflamables
-            td H224
-          tr
-            td 2
-            td
-              img(src='@/assets/curso/figure-14.svg', alt='Señal SGA', style="height: 60%;")
-            td
-              img(src='@/assets/curso/figure-15.svg', alt='Señal SGA', style="height: 60%;")
-            td Peligro
-            td Líquido y vapores muy inflamables
-            td H225
-          tr
-            td 3
-            td
-              img(src='@/assets/curso/figure-14.svg', alt='Señal SGA', style="height: 60%;")
-            td
-              img(src='@/assets/curso/figure-15.svg', alt='Señal SGA', style="height: 60%;")
-            td Atención
-            td Líquido y vapores inflamables
-            td H226
-          tr
-            td 4
-            td Sin pictograma
-            td No se requiere
-            td Atención
-            td Líquido combustible
-            td H227
+        .tabla-a.color-acento-contenido.mb-5
+          table
+            caption
+            thead
+              tr
+                th(colspan="2") Clasificacion
+                th(colspan="4") Etiquetado
+                th Codigo de indicación de peligro
+            tbody
+              tr
+                td(rowspan="2" style="text-align: center;") Clase de peligro
+                td(rowspan="2" style="text-align: center;") Categoria de peligro
+                td(colspan="2" style="text-align: center;") Pictograma
+                td(rowspan="2" style="text-align: center;") Palabra de advertencia
+                td(rowspan="2" style="text-align: center;") Indicacion de peligro
+                td(rowspan="2")
+              tr
+                td(style="text-align: center;") SGA
+                td(style="text-align: center;") Reglamentacion Modelo de las Naciones Unidas
+              tr
+                td(rowspan="4" style="text-align: center;") Líquidos infamables
+                td 1
+                td
+                  img(src='@/assets/curso/figure-14.svg', alt='Señal SGA', style="height: 60%;")
+                td
+                  img(src='@/assets/curso/figure-15.svg', alt='Señal SGA', style="height: 60%;")
+                td Peligro
+                td Líquido y vapores extremadamente inflamables
+                td H224
+              tr
+                td 2
+                td
+                  img(src='@/assets/curso/figure-14.svg', alt='Señal SGA', style="height: 60%;")
+                td
+                  img(src='@/assets/curso/figure-15.svg', alt='Señal SGA', style="height: 60%;")
+                td Peligro
+                td Líquido y vapores muy inflamables
+                td H225
+              tr
+                td 3
+                td
+                  img(src='@/assets/curso/figure-14.svg', alt='Señal SGA', style="height: 60%;")
+                td
+                  img(src='@/assets/curso/figure-15.svg', alt='Señal SGA', style="height: 60%;")
+                td Atención
+                td Líquido y vapores inflamables
+                td H226
+              tr
+                td 4
+                td Sin pictograma
+                td No se requiere
+                td Atención
+                td Líquido combustible
+                td H227
 
-    .cajon.color-primario.p-4.mb-5
-      .row.align-items-center
-        .col-md-10.d-flex
-          p Según las Recomendaciones relativas al transporte de mercias peligrosas, Reglamentación Modelo, de las Naciones Unidas, el simbolo, el número y la línea del borde pueden figurar en negro en lugar de en blanco. El fondo será de color rojo en ambos casos
-        .col-md-2
-          img(src='@/assets/curso/figure-16.svg', alt='Logo de las naciones unidas')
+        .cajon.color-primario.p-4.mb-5
+          .row.align-items-center
+            .col-md-10.d-flex
+              p Según las Recomendaciones relativas al transporte de mercias peligrosas, Reglamentación Modelo, de las Naciones Unidas, el simbolo, el número y la línea del borde pueden figurar en negro en lugar de en blanco. El fondo será de color rojo en ambos casos
+            .col-md-2
+              img(src='@/assets/curso/figure-16.svg', alt='Logo de las naciones unidas')
 
     .row.mb-5
       .col-md-8.mb-4.mb-md-0
@@ -338,29 +342,31 @@
       .col-md-4
         img.px-4(src='@/assets/curso/figure-21.svg', alt='Nota. MinAmbiente (s.f.)')
 
-    .row.mb-5
-      .col-md-8.mb-4.mb-md-0
-        .tabla-b.color-acento-contenido.mb-5
-          .tabla-b__header
-            .h6.mb-0 ELEMENTOS / DESCRIPCION
-          table
-            tr
-              th.TC1(rowspan="3") PICTOGRAMA
-              td Símbolo NEGRO
-            tr
-              td Fondo BLANCO
-            tr
-              td Marco ROJO
-            tr
-              th.TC2(rowspan="2") PALABRA DE ADVERTENCIA
-              td Peligro (Mayor severidad)
-            tr
-              td Atención (Menor severidad)
-            tr
-              th.TC1 INDICACIÓN DE PELIGRO
-              td Describe la naturaleza del peligro y enuncia la forma como se materializa.
-      .col-md-4
-        img.px-4(src='@/assets/curso/figure-22.svg', alt='Nota. MinAmbiente (s.f.)')
+    .row.justify-content-center.mb-5
+      .col-11
+        .row
+          .col-md-8.mb-4.mb-md-0
+            .tabla-b.color-acento-contenido.mb-5
+              .tabla-b__header
+                .h6.mb-0 ELEMENTOS / DESCRIPCION
+              table
+                tr
+                  th.TC1(rowspan="3") PICTOGRAMA
+                  td Símbolo NEGRO
+                tr
+                  td Fondo BLANCO
+                tr
+                  td Marco ROJO
+                tr
+                  th.TC2(rowspan="2") PALABRA DE ADVERTENCIA
+                  td Peligro (Mayor severidad)
+                tr
+                  td Atención (Menor severidad)
+                tr
+                  th.TC1 INDICACIÓN DE PELIGRO
+                  td Describe la naturaleza del peligro y enuncia la forma como se materializa.
+          .col-md-4
+            img.px-4(src='@/assets/curso/figure-22.svg', alt='Nota. MinAmbiente (s.f.)')
 
     .titulo-segundo
       .h4 1.1  Peligros físicos
@@ -592,7 +598,7 @@
       .col-md-6.mb-4.mb-md-0.d-flex
         img(src='@/assets/curso/figure-69.svg', alt='Nota. MinAmbiente (s.f.)')
       .col-md-6.d-flex
-        .cajon.cajon_with_square_green.color-acento-contenido.p-4.d-flex.align-items-center.justify-content-center
+        .cajon.color-acento-contenido.p-4.d-flex.align-items-center.justify-content-center
           .h4.justify-text.px-4 Los peligros para la salud se refieren a aquellas características intrínsecas de los productos químicos que producen daños a la salud humana e incluso la muerte, en el SGA se presentan 10 peligros para la salud:
 
     img.mb-5(src='@/assets/curso/figure-35.svg', alt='Texto que describa la imagen')
@@ -1121,6 +1127,19 @@
           .tarjeta.color-primario-mas-claro.px-4
             .h4.text-center H410
             p.text-center “Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos”.
+
+    .row.no-gutters.mb-5
+      .col-md-6.d-flex
+        .cajon.color-primario.p-4.d-flex.align-items-center.justify-content-center
+          p
+            strong Consejos de prudencia en el SGA:
+            | Son frases que describen las medidas destinadas a minimizar o prevenir los efectos nocivos de la exposición a un producto químico peligroso, por causa del almacenamiento incorrecto o una manipulación inapropiada del producto.
+            br
+            br
+            | Existen cinco tipos de consejos de prudencia, los de carácter general, los relativos a la prevención, a la intervención, el almacenamiento y la eliminación.
+      .col-md-6.mb-4.mb-md-0.d-flex
+        img(src='@/assets/curso/figure-102.svg', alt='Nota. MinAmbiente (s.f.)')
+
 
     p.mb-5.text-justify El objetivo de los consejos de prudencia es promover el uso correcto de los productos químicos peligrosos. Su codificación se caracteriza por el uso de la letra P (del inglés Prudence) que precede una cifra de tres dígitos:
 

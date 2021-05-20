@@ -132,31 +132,33 @@
     .cajon.color-primario.p-4.mb-4
         p En dicha resolución se establece que en etiquetas para envases pequeños de menos de 30 mililitros, el envase registrará como mínimo el nombre del producto y se podrán usar métodos alternativos de etiquetado en el lugar de trabajo (uso y almacenamiento), insertos o cualquier otra alternativa que garantice que, de manera permanente la información quede en un medio impreso, para que el personal tenga acceso a la información de la etiqueta de todos los productos que cuentan con la misma composición (Artículo 11 del proyecto reglamentario de normatividad del SGA en puestos de trabajo).
 
-    .tabla-a.color-acento-contenido.mb-5
-      table
-        caption
-        thead
-          tr
-            th Capacidad del envase
-            th Dimensiones de la etiqueta (en milímetros)
-            th Dimensiones del pictograma (en milimetros)
-        tbody
-          tr
-            td Hasta 3 litros
-            td Si es posible, al menos 52x74
-            td No menos de 10 x 10. Si es posible, al menos 16x 16
-          tr
-            td Más de 3 litros, pero sin exceder de 50 litros
-            td Al menos 74 x 105
-            td al menos 23 x 23
-          tr
-            td Más de 50 litros, pero sin exceder de 500 litros
-            td Al menos 105 x 148
-            td al menos 32 x 32
-          tr
-            td Más de  500 litros
-            td Al menos 148 x 210
-            td al menos 46 x 46
+    .row.justify-content-center
+      .col-10
+        .tabla-a.color-acento-contenido.mb-5
+          table
+            caption
+            thead
+              tr
+                th Capacidad del envase
+                th Dimensiones de la etiqueta (en milímetros)
+                th Dimensiones del pictograma (en milimetros)
+            tbody
+              tr
+                td Hasta 3 litros
+                td Si es posible, al menos 52x74
+                td No menos de 10 x 10. Si es posible, al menos 16x 16
+              tr
+                td Más de 3 litros, pero sin exceder de 50 litros
+                td Al menos 74 x 105
+                td al menos 23 x 23
+              tr
+                td Más de 50 litros, pero sin exceder de 500 litros
+                td Al menos 105 x 148
+                td al menos 32 x 32
+              tr
+                td Más de  500 litros
+                td Al menos 148 x 210
+                td al menos 46 x 46
 
     SlyderB.mb-5(:datos="datosSlyder")
 
@@ -314,13 +316,13 @@ export default {
       {
         titulo: 'Envases y embalajes',
         texto:
-          'Dado que en el tema de etiquetado se recurre frecuentemente a hablar de envases y embalajes, es necesario establecer una diferencia entre estos dos.\n\nSe define como envase o empaque primario un contenedor que está en contacto directo con un producto químico y que sirve para contenerlo, almacenarlo, dosificarlo, etc.\n\nUn embalaje es un empaque que puede contener uno o varios envases y tiene como propósito proteger el envase y su contenido durante procesos de almacenamiento y transporte. Este sistema es también conocido como sistema de embalaje/envase combinado.',
+          'Dado que en el tema de etiquetado se recurre frecuentemente a hablar de envases y embalajes, es necesario establecer una diferencia entre estos dos.<br><br>Se define como envase o empaque primario un contenedor que está en contacto directo con un producto químico y que sirve para contenerlo, almacenarlo, dosificarlo, etc.<br><br>Un embalaje es un empaque que puede contener uno o varios envases y tiene como propósito proteger el envase y su contenido durante procesos de almacenamiento y transporte. Este sistema es también conocido como sistema de embalaje/envase combinado.',
         imagen: require('@/assets/curso/figure-80.svg'),
       },
       {
         titulo: 'Envases y embalajes',
         texto:
-          'Un ejemplo de este sistema es una caja con botellas de acetonitrilo (solvente utilizado en laboratorios de ensayo), el envase será cada botella que contiene acetonitrilo y el empaque corresponderá a la caja.\n\nSe presentan casos en los que el envase cumple funciones de embalaje de producto, por ejemplo, un bidón de producto químico de 200 litros, en el cual no es factible el uso de un embalaje adicional aparte, este sistema se considera de embalaje/envase simple.',
+          'Un ejemplo de este sistema es una caja con botellas de acetonitrilo (solvente utilizado en laboratorios de ensayo), el envase será cada botella que contiene acetonitrilo y el empaque corresponderá a la caja.<br><br>Se presentan casos en los que el envase cumple funciones de embalaje de producto, por ejemplo, un bidón de producto químico de 200 litros, en el cual no es factible el uso de un embalaje adicional aparte, este sistema se considera de embalaje/envase simple.',
         imagen: require('@/assets/curso/figure-81.svg'),
       },
     ],
