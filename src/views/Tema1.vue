@@ -74,7 +74,7 @@
 
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Peligros físicos")
-        p.fw-bold.mb-4(style="font-size: 20px") Peligros físicos
+        .h3 Peligros físicos
         p.mb-4.justify-text Los peligros físicos son aquellas características intrínsecas de los productos químicos que están fundamentadas en sus propiedades físicas y químicas, cuyos efectos adversos pueden afectar directamente el entorno y a las personas que se encuentren en él.
           br
           br
@@ -87,10 +87,10 @@
             .col-lg-8
               .bloque-texto-a__texto.p-4
                 p El Sistema Globalmente Armonizado establece 17 clases de peligros físicos, que son: explosivos, gases inflamables, aerosoles, gases comburentes, gases a presión, líquidos inflamables, sólidos inflamables, sustancias y mezclas que reaccionan espontáneamente, líquidos pirofóricos, sólidos pirofóricos, sustancias y mezclas que experimentan calentamiento espontáneo, sustancias que en contacto con el agua desprenden gases inflamables, líquidos comburentes, sólidos comburentes, peróxidos orgánicos, sustancias y mezclas corrosivas para los metales, y explosivos insensibilizados
-                p.h4(style="text-weigth: 800; text-align: right;") (Hoyos, 2017).
+                p(style="text-weigth: 800; text-align: right;") (Hoyos, 2017).
 
       .py-3.py-md-4(titulo="Peligros para la salud")
-        p.fw-bold.mb-4(style="font-size: 20px") Peligros para la salud
+        .h3 Peligros para la salud
         .row
           .col-md-6.mb-4.mb-md-0
             p.mb-4.justify-text Las clases de peligro clasificadas dentro de los peligros para la salud corresponden a aquellas cuyos efectos adversos son generados directamente sobre las personas, afectando el correcto desempeño del cuerpo, ya sea a corto plazo (efecto agudo) o a largo plazo (efecto crónico) sobre la salud de los individuos expuestos.
@@ -134,7 +134,7 @@
             img(src='@/assets/curso/figure-8.svg', alt='Simbolos')
 
       .py-3.py-md-4(titulo="Peligros para el medio ambiente")
-        p.fw-bold.mb-4(style="font-size: 20px") Peligros para el medio ambiente
+        .h3 Peligros para el medio ambiente
         .row
           .col-md-6.mb-4.mb-md-0
             p.mb-4.justify-text Las clases de peligro agrupadas como peligros para el medio ambiente son aquellos presentes en un producto químico y cuyos efectos adversos se dan sobre los ecosistemas, afectando la fauna y flora.
