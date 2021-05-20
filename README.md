@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/SISTEMA_GLOBALMENTE_ARMONIZADO_CF2](https://ecored-sena.github.io/SISTEMA_GLOBALMENTE_ARMONIZADO_CF2)
 
 #
 
