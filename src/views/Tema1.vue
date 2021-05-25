@@ -121,7 +121,7 @@
                 | Toxicidad para la reproducción.
               li
                 i.fas.fa-check
-                | Toxicidad específica de en órganos diana (exposición única).
+                | Toxicidad específica en órganos diana (exposición única).
               li
                 i.fas.fa-check
                 | Toxicidad específica de órganos diana (exposiciones repetidas).
@@ -277,6 +277,7 @@
     .row.mb-5
       .col-md-6.mb-4.mb-md-0
         p.mb-4 Los tres elementos importantes en la comunicación del peligro de un producto químico en la etiqueta y en las FDS son:
+          br
           | De manera general, un pictograma se define como una composición
         ul.mb-4.lista-ul--color
           li
@@ -454,7 +455,7 @@
 
       .row.px-4(titulo="Productos químicos inflamables")
         .col-md-7.mb-4.mb-md-0
-          p.justify-text Los productos químicos inflamables son sustancias o mezclas líquidas, sólidas o gaseosas que se inflaman con facilidad, generando un incendio en presencia de una chispa o fuente de calor y de una sustancia comburente.
+          p.justify-text.mb-4 Los productos químicos inflamables son sustancias o mezclas líquidas, sólidas o gaseosas que se inflaman con facilidad, generando un incendio en presencia de una chispa o fuente de calor y de una sustancia comburente.
             br
             br
             | Se consideran gases inflamables cuando se inflaman a 20°C y a una presión de 101,3 kPa. En los líquidos, cuando los productos químicos presentan puntos de inflamación menores a 92°C, y en el caso de sólidos cuando estos inflaman con facilidad o cuando por frotamiento pueden provocar o activar un incendio.
@@ -464,6 +465,31 @@
             br
             br
             | El pictograma relacionado con productos químicos inflamables es fácil de interpretar, puesto que la llama en el dibujo indica la capacidad de los productos químicos a producir y a mantener el fuego.
+            br
+            br
+            | En líquidos inflamables se considera su uso cuando los productos químicos se encuentran dentro de las categorías 1, 2 o 3, según el SGA revisión sexta.
+            br
+            br
+            | En sólidos inflamables se considera cuando los productos químicos se encuentran en la categoría 1 o 2.
+            br
+            | En aerosoles debe ser considerado el uso del pictograma para las categorías 1 y 2.
+            br
+            br
+            | Los productos químicos inflamables deben manipularse con las medidas de prevención apropiadas para evitar la generación de chispas o fuentes de calor y, segregarlos de productos químicos comburentes (agentes oxidantes) en las áreas de trabajo
+            br
+            br
+            strong Existen otras clases de peligros que hacen uso de este pictograma en el SGA, dentro de las cuales se encuentran:
+
+            ul.lista-ul
+              li
+                i.lista-ul__vineta
+                | Sustancias y mezclas que presentan calentamiento espontáneo, categorías 1 y 2.
+              li
+                i.lista-ul__vineta
+                | Sustancias y mezclas que en contacto con el agua desprenden gases inflamables. Utilizadas como pictograma para las categorías 1, 2 y 3.
+              li
+                i.lista-ul__vineta
+                | Explosivos insensibilizados categorías 1, 2 ,3 y 4 son aquellos explosivos líquidos o sólidos a los cuales se les agrega un flemador, que es una sustancia que los vuelve menos sensibles o insensibles a un explosivo para ser afectado por condiciones como temperatura y fricción, aumentando el margen de seguridad que presenta el producto químico durante su manipulación y transporte, según el SGA revisión sexta.
 
         .col-md-5
           img.px-5.mb-3(src='@/assets/curso/figure-27.svg', alt='Texto que describa la imagen')
@@ -476,9 +502,9 @@
                 br
                 | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA). Sexta edición revisada. Naciones Unidas. Nueva York y Ginebra, páginas 71- 90.
 
-      .row.px-4(titulo="Productos químicos inflamables")
+      .row.px-4(titulo="Productos químicos comburentes")
         .col-md-7.mb-4.mb-md-0
-          p.justify-text Los productos químicos comburentes pueden ser gases, líquidos o sólidos comburentes o peróxidos orgánicos.
+          p.justify-text.mb-4 Los productos químicos comburentes pueden ser gases, líquidos o sólidos comburentes o peróxidos orgánicos.
             br
             br
             | El pictograma que aplica para los productos químicos comburentes y peróxidos orgánicos es el que se presenta en la figura.
@@ -488,6 +514,45 @@
             br
             br
             | Los peróxidos orgánicos son productos químicos que contienen la estructura bivalente -O-O- y pueden considerarse derivados del peróxido de hidrógeno, en el que uno o ambos átomos de hidrógeno han sido sustituido(s) por radical(es) orgánico(s). Los peróxidos orgánicos son sustancias térmicamente inestables que pueden sufrir una descomposición exotérmica auto-acelerada, es decir, que liberan calor al reaccionar. Además, pueden tener una o varias de las siguientes propiedades:
+
+          ul.lista-ul.mb-4
+            li
+              i.lista-ul__vineta
+              | Ser susceptibles de experimentar una descomposición explosiva.
+            li
+              i.lista-ul__vineta
+              | Arder rápidamente.
+            li
+              i.lista-ul__vineta
+              | Ser sensibles a los choques o a la fricción.
+            li
+              i.lista-ul__vineta
+              | Reaccionar peligrosamente con otras sustancias.
+            li
+              i.lista-ul__vineta
+              | Producir lesiones en los ojos.
+
+          p.justify-text.mb-4 Su pictograma se representa con una “O” de Oxígeno y sobre ella unas llamas, comunicando que aporta oxígeno a la reacción y que es un posible generador de incendio, a pesar de no estar clasificado como inflamable.
+            br
+            br
+            | Es muy importante recordar que los productos químicos a los que se les asigne este pictograma no se deben manipular, ni almacenar cerca de productos químicos inflamables, ni explosivos, debido a que pueden reaccionar exotérmicamente, generando un incendio, sosteniéndolo en el tiempo, situación que ocurre con materiales orgánicos tales como el papel, azúcar, harinas de granos o aserrín de madera.
+            br
+            br
+            | Por ser agentes oxidantes también se deben tomar medidas de precaución para evitar su contacto con la piel y los ojos.
+            br
+            br
+            | En el caso de peróxidos orgánicos, los pictogramas a considerar son los siguientes:
+
+          ul.lista-ul.mb-4
+            li
+              i.lista-ul__vineta
+              | Categoría A, pictograma de explosividad.
+            li
+              i.lista-ul__vineta
+              | Categoría B, pictogramas de explosividad e inflamabilidad (van ambos).
+            li
+              i.lista-ul__vineta
+              | Categorías C, D, E y F, pictogramas de inflamabilidad.
 
         .col-md-5
           img.px-5.mb-3(src='@/assets/curso/figure-28.svg', alt='Texto que describa la imagen')
@@ -579,6 +644,12 @@
             br
             br
             | Los productos químicos a los que se les asigna este pictograma deben almacenarse en sus envases originales o envases no metálicos para evitar daños y consecuentes derrames, en caso de ser sustancias o mezclas de carácter ácido o alcalino, deben mantenerse separados y agrupados de acuerdo con esa característica.
+            br
+            br
+            | El pictograma de este peligro se muestra como dos imágenes dentro del rombo de borde rojo, en una de ellas cae una gota de un producto químico sobre lo que parece una placa y produce un desgaste o desintegración de esta.
+            br
+            br
+            | En el otro dibujo se evidencia una mano sobre la que cae una gota de un tubo de ensayo generando desprendimiento de lo que se presenta como gases.
 
         .col-md-5
           img.px-5.mb-3(src='@/assets/curso/figure-33.svg', alt='Texto que describa la imagen')
@@ -1132,8 +1203,8 @@
       .col-md-6.d-flex
         .cajon.color-primario.p-4.d-flex.align-items-center.justify-content-center
           p
-            strong Consejos de prudencia en el SGA:
-            | Son frases que describen las medidas destinadas a minimizar o prevenir los efectos nocivos de la exposición a un producto químico peligroso, por causa del almacenamiento incorrecto o una manipulación inapropiada del producto.
+            strong Consejos de prudencia en el SGA
+            | : Son frases que describen las medidas destinadas a minimizar o prevenir los efectos nocivos de la exposición a un producto químico peligroso, por causa del almacenamiento incorrecto o una manipulación inapropiada del producto.
             br
             br
             | Existen cinco tipos de consejos de prudencia, los de carácter general, los relativos a la prevención, a la intervención, el almacenamiento y la eliminación.

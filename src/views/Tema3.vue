@@ -479,6 +479,8 @@
         .cajon.color-primario.p-4.mb-4
           p
             strong Identificación del producto
+            br
+            br
             | Resulta de innegable importancia conocer tanto el nombre del producto químico como sus sinónimos dadas las variaciones que se presentan al identificar un mismo producto, estos datos son presentados en la sección 1 de las FDS.
             br
             br
