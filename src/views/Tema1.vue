@@ -381,8 +381,9 @@
 
     img.mb-5(src='@/assets/curso/figure-24.svg', alt='Nota. MinAmbiente (s.f.)')
 
-    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
-      .row.px-4(titulo="Explosivos")
+    .acordeon-fake.p-2.mb-3
+      p.fw-bold.mb-5.px-3.h5.mt-3 Explosivos
+      .row.px-4
         .col-md-7.mb-4.mb-md-0
           p.justify-text El pictograma que se observa en la figura representa las sustancias o productos explosivos. Esto es una sustancia sólida o líquida (o mezcla de sustancias) que, de manera espontánea o por reacción química, puede desprender gases a una temperatura, presión y velocidad tales que puedan ocasionar daños en su entorno.
             br
@@ -406,20 +407,22 @@
                 br
                 | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 2 Clasificación, página 57.
 
-      .row.px-4(titulo="Gases a presión")
-        .col-md-7.mb-4.mb-md-0
-          p Aunque todos los peligros deben ser considerados en la implementación de medidas preventivas, en este apartado se mencionan los gases que pueden generar incendios.
-            br
-            br
-            | Los gases a presión son gases que se encuentran en un recipiente a una presión (manométrica) superior o igual a 200 kPa a 20ºC, o como gases licuados, o como gases licuados refrigerados. Según el numeral 2.5.1 del SGA revisión sexta, se incluyen los gases comprimidos, licuados y licuados refrigerados.
-            br
-            br
-            |Los gases bajo presión presentan comportamientos específicos que pueden generar efectos adversos al entorno, por ejemplo, pueden explotar por calentamiento o provocar quemaduras o lesiones criogénicas cuando corresponde a gases licuados refrigerados.
+    .acordeon-fake.p-2.mb-3
+      p.px-4.mt-3 Aunque todos los peligros deben ser considerados en la implementación de medidas preventivas, en este apartado se mencionan los gases que pueden generar incendios.
+      p.fw-bold.mb-4.px-3.h5.mt-4 Gases a presión
+        .row.px-4
+          .col-md-7.mb-4.mb-md-0
+            p Los gases a presión son gases que se encuentran en un recipiente a una presión (manométrica) superior o igual a 200 kPa a 20ºC, o como gases licuados, o como gases licuados refrigerados. Según el numeral 2.5.1 del SGA revisión sexta, se incluyen los gases comprimidos, licuados y licuados refrigerados.
+              br
+              br
+              |Los gases bajo presión presentan comportamientos específicos que pueden generar efectos adversos al entorno, por ejemplo, pueden explotar por calentamiento o provocar quemaduras o lesiones criogénicas cuando corresponde a gases licuados refrigerados.
 
-        .col-md-5
-          img.px-5.mb-3(src='@/assets/curso/figure-26.svg', alt='Texto que describa la imagen')
+          .col-md-5
+            img.px-5.mb-3(src='@/assets/curso/figure-26.svg', alt='Texto que describa la imagen')
 
-      .row.px-4(titulo="Gases inflamables ")
+    .acordeon-fake.p-2.mb-3
+      p.fw-bold.mb-5.px-3.h5.mt-3 Gases inflamables
+      .row.px-4
         .col-md-7.mb-4.mb-md-0
           p.justify-text Dentro de esta clase de peligro se consideran tanto los gases inflamables, como pirofóricos y los químicamente inestables.
             br
@@ -453,7 +456,9 @@
                 br
                 | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 1 Introducción.
 
-      .row.px-4(titulo="Productos químicos inflamables")
+    .acordeon-fake.p-2.mb-3
+      p.fw-bold.mb-5.px-3.h5.mt-3 Productos químicos inflamables
+      .row.px-4
         .col-md-7.mb-4.mb-md-0
           p.justify-text.mb-4 Los productos químicos inflamables son sustancias o mezclas líquidas, sólidas o gaseosas que se inflaman con facilidad, generando un incendio en presencia de una chispa o fuente de calor y de una sustancia comburente.
             br
@@ -502,7 +507,9 @@
                 br
                 | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA). Sexta edición revisada. Naciones Unidas. Nueva York y Ginebra, páginas 71- 90.
 
-      .row.px-4(titulo="Productos químicos comburentes")
+    .acordeon-fake.p-2.mb-3
+      p.fw-bold.mb-5.px-3.h5.mt-3 Productos químicos comburentes
+      .row.px-4
         .col-md-7.mb-4.mb-md-0
           p.justify-text.mb-4 Los productos químicos comburentes pueden ser gases, líquidos o sólidos comburentes o peróxidos orgánicos.
             br
@@ -632,7 +639,9 @@
             .cajon.color-acento-contenido.p-4.mb-5
               p Criterios de clasificación para líquidos inflamables.  Fuente: Naciones Unidas, 2017. Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA). Sexta edición. Naciones Unidas. Nueva York y Ginebra 2017, p. 272.
 
-      .row.px-4(titulo="Sustancias y mezclas corrosivas para metales")
+    .acordeon-fake.p-2.mb-5
+      p.fw-bold.mb-5.px-3.h5.mt-3 Sustancias y mezclas corrosivas para metales
+      .row.px-4
         .col-md-7.mb-4.mb-md-0
           p.justify-text Se considera que un producto químico es corrosivo cuando en contacto con metales presenta reacción química y puede dañarlos e incluso destruirlos, según el SGA revisión sexta.
             br
@@ -661,6 +670,7 @@
                 br
                 br
                 | Comisión Económica de las Naciones Unidas para Europa (UNECE), (2015). Parte 2 Peligros físicos.
+
 
     #t_1_2.titulo-segundo
       .h4 1.2  Peligros para la salud humana
@@ -1204,7 +1214,7 @@
         .cajon.color-primario.p-4.d-flex.align-items-center.justify-content-center
           p
             strong Consejos de prudencia en el SGA
-            | : Son frases que describen las medidas destinadas a minimizar o prevenir los efectos nocivos de la exposición a un producto químico peligroso, por causa del almacenamiento incorrecto o una manipulación inapropiada del producto.
+            | : son frases que describen las medidas destinadas a minimizar o prevenir los efectos nocivos de la exposición a un producto químico peligroso, por causa del almacenamiento incorrecto o una manipulación inapropiada del producto.
             br
             br
             | Existen cinco tipos de consejos de prudencia, los de carácter general, los relativos a la prevención, a la intervención, el almacenamiento y la eliminación.

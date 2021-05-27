@@ -13,7 +13,7 @@
       .col-auto
         img(src="@/assets/curso/figure-101.svg")
       .col
-        p Pilar que es fundamental en el desarrollo de una estrategia de gestión segura de productos químicos entre países, nace como un  compromiso establecido por los países y organizaciones que hacen parte del Sistema de Naciones Unidas que participaron en el desarrollo de la agenda del Programa  21 de Río de Janeiro realizado en 1992, cuya primera edición sale en el año 2003, la versión del año 2019 corresponde a la versión octava y frente a lo cual Colombia adopta a través del decreto 1496 de 2018, la versión sexta.
+        p El Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos nace como una iniciativa global de armonización en la forma en que  se clasifican y comunican  los peligros que presenta un producto químico, pilar que es fundamental en el desarrollo de una estrategia de gestión segura de productos químicos entre países, nace como un  compromiso establecido por los países y organizaciones que hacen parte del Sistema de Naciones Unidas que participaron en el desarrollo de la agenda del Programa  21 de Río de Janeiro realizado en 1992, cuya primera edición sale en el año 2003, la versión del año 2019 corresponde a la versión octava y frente a lo cual Colombia adopta a través del decreto 1496 de 2018, la versión sexta.
           br
           br
           | Este sistema de clasificación y etiquetado de peligros de un producto químico comprende los siguientes elementos:
@@ -29,6 +29,7 @@
           br
           br
           | En otras etapas del ciclo complementa la información solicitada por otros referentes, por ejemplo, a nivel de transporte la información y orientaciones establecidas por el Reglamento Modelo de Naciones Unidas para el transporte de mercancías peligrosas (conocido como libro naranja) y los marcos internacionales y nacionales aplicables a la gestión de residuos peligrosos.
+
     .background-primario(style="height: 80px")
 </template>
 
