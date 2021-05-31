@@ -4,12 +4,14 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     .titulo-principal
+      .titulo-principal__numero
+        .h3 3
       .h3 Fichas de datos de seguridad (FDS)
+
+    img.mb-5(src='@/assets/curso/figure-91.svg', alt='Introduccion 1')
 
     #t_3_1.titulo-segundo
       .h4 3.1 Formato y contenido
-
-    img.mb-5(src='@/assets/curso/figure-91.svg', alt='Introduccion 1')
 
     p.mb-5 A través del Decreto 1496 del 6 de agosto de 2018, Colombia ha adoptado el SGA, orientado, entre otros propósitos a comunicar los peligros y el manejo seguro de productos químicos por medio de las FDS y etiquetado de acuerdo con lo indicado en el Artículo 6º de esta regulación. A su vez, en los artículos 8º y 9º asigna a los fabricantes e importadores la responsabilidad de elaborar, revisar y actualizar las FDS.
 

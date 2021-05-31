@@ -4,7 +4,9 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     .titulo-principal
-      .h3 Tema 2. Etiquetas SGA
+      .titulo-principal__numero
+        .h3 2
+      .h3 Etiquetas SGA
 
     img.mb-5(src='@/assets/curso/figure-74.svg', alt='Introduccion 1')
 
