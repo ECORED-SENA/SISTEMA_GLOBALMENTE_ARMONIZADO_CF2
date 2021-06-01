@@ -113,11 +113,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+      // {
+      //   icono: 'fas fa-download',
+      //   titulo: 'Descargar material',
+      //   download: 'downloads/material.zip',
+      // },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -289,7 +289,7 @@ export default {
     },
     {
       referencia: 'Thompson, I. (2009).  El empaque. Marketing-Free.com.',
-      link: 'https://www.marketing-free.com/producto/empaques.htm',
+      link: 'https://www.marketing-free.com/producto/empaques.html',
     },
     {
       referencia:

@@ -40,7 +40,7 @@
         p.px-5.py-4.color-primario-mas-claro.border-radius-c.mb-4.text-center
           span Los trabajadores y consumidores manipulen los productos químicos de forma segura y responsable con el medio ambiente.
 
-    a.mb-5.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part3.pdf" target="_blank")
+    a.mb-5.anexo(href="https://gqspcolombia.org/wp-content/uploads/2020/03/Onudi-Colombia_Digital_02.pdf" target="_blank")
       .anexo__icono
         img(src="@/assets/template/icono-link.svg")
       .anexo__texto

@@ -195,20 +195,20 @@
             caption
             thead
               tr
-                th(colspan="2") Clasificacion
+                th(colspan="2") Clasificación
                 th(colspan="4") Etiquetado
-                th Codigo de indicación de peligro
+                th Código de indicación de peligro
             tbody
               tr
                 td(rowspan="2" style="text-align: center;") Clase de peligro
-                td(rowspan="2" style="text-align: center;") Categoria de peligro
+                td(rowspan="2" style="text-align: center;") Categoría de peligro
                 td(colspan="2" style="text-align: center;") Pictograma
                 td(rowspan="2" style="text-align: center;") Palabra de advertencia
-                td(rowspan="2" style="text-align: center;") Indicacion de peligro
+                td(rowspan="2" style="text-align: center;") Indicación de peligro
                 td(rowspan="2")
               tr
                 td(style="text-align: center;") SGA
-                td(style="text-align: center;") Reglamentacion Modelo de las Naciones Unidas
+                td(style="text-align: center;") Reglamentación Modelo de las Naciones Unidas
               tr
                 td(rowspan="4" style="text-align: center;") Líquidos infamables
                 td 1
@@ -369,7 +369,7 @@
           .col-md-4
             img.px-4(src='@/assets/curso/figure-22.svg', alt='Nota. MinAmbiente (s.f.)')
 
-    .titulo-segundo
+    #t_1_1.titulo-segundo
       .h4 1.1  Peligros físicos
 
     .row.no-gutters.mb-5
@@ -563,7 +563,7 @@
 
         .col-md-5
           img.px-5.mb-3(src='@/assets/curso/figure-28.svg', alt='Texto que describa la imagen')
-          a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo(href="https://unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part2.pdf" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
@@ -577,20 +577,20 @@
             caption
             thead
               tr
-                th(colspan="2") Clasificacion
+                th(colspan="2") Clasificación
                 th(colspan="4") Etiquetado
                 th Codigo de indicación de peligro
             tbody
               tr
                 td(rowspan="2" style="text-align: center;") Clase de peligro
-                td(rowspan="2" style="text-align: center;") Categoria de peligro
+                td(rowspan="2" style="text-align: center;") Categoría de peligro
                 td(colspan="2" style="text-align: center;") Pictograma
                 td(rowspan="2" style="text-align: center;") Palabra de advertencia
-                td(rowspan="2" style="text-align: center;") Indicacion de peligro
+                td(rowspan="2" style="text-align: center;") Indicación de peligro
                 td(rowspan="2")
               tr
                 td(style="text-align: center;") SGA
-                td(style="text-align: center;") Reglamentacion Modelo de las Naciones Unidas
+                td(style="text-align: center;") Reglamentación Modelo de las Naciones Unidas
               tr
                 td(rowspan="5" style="text-align: center;") Líquidos infamables
                 td Tipo A
@@ -632,7 +632,7 @@
                 td Sin pictograma
                 td No se requiere
                 td Sin palabra de advertencia
-                td Sin indicacion de peligro
+                td Sin indicación de peligro
                 td Ninguno
         .px-5
           .px-5
@@ -662,7 +662,7 @@
 
         .col-md-5
           img.px-5.mb-3(src='@/assets/curso/figure-33.svg', alt='Texto que describa la imagen')
-          a.anexo(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+          a.anexo(href="http://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/02sp_part2.pdf" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
