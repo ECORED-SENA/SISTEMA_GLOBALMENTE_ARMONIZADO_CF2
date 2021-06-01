@@ -298,11 +298,6 @@ export default {
         'https://unece.org/DAM/trans/main/wp29/wp29wgs/wp29gen/wp29pub/WP29_Blue_Book_2012-1s_01.pdf',
     },
     {
-      referencia:
-        'UNECE. (2015).  Comisión Económica de las Naciones Unidas para Europa',
-      link: 'https://unece.org/es/ghs-rev6-2015',
-    },
-    {
       referencia: 'UNECE. (2015). Parte 2 Clasificación.',
       link:
         'https://www.unece.org/fileadmin/DAM/trans/danger/publi/unrec/rev13/Spanish/02_Part2.pdf',
