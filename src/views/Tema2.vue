@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 2
-      .h3 Etiquetas SGA
+      .h3.text-in Etiquetas SGA
 
     img.mb-5(src='@/assets/curso/figure-74.svg', alt='Introduccion 1')
 

@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 1
-      .h3 Clases y categorías de peligros SGA
+      .h3.text-in Clases y categorías de peligros SGA
 
     img.mb-5(src='@/assets/curso/figure-1.svg', alt='Introduccion 1')
 
@@ -86,7 +86,7 @@
               img(src='@/assets/curso/figure-7.svg', alt='Simbolos')
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p El Sistema Globalmente Armonizado establece 17 clases de peligros físicos, que son: explosivos, gases inflamables, aerosoles, gases comburentes, gases a presión, líquidos inflamables, sólidos inflamables, sustancias y mezclas que reaccionan espontáneamente, líquidos pirofóricos, sólidos pirofóricos, sustancias y mezclas que experimentan calentamiento espontáneo, sustancias que en contacto con el agua desprenden gases inflamables, líquidos comburentes, sólidos comburentes, peróxidos orgánicos, sustancias y mezclas corrosivas para los metales, y explosivos insensibilizados
+                p El Sistema Globalmente Armonizado establece 17 clases de peligros físicos, que son: explosivos, gases inflamables, aerosoles, gases comburentes, gases a presión, líquidos inflamables, sólidos inflamables, sustancias y mezclas que reaccionan espontáneamente, líquidos pirofóricos, sólidos pirofóricos, sustancias y mezclas que experimentan calentamiento espontáneo, productos químicos que en contacto con el agua desprenden gases inflamables, líquidos comburentes, sólidos comburentes, peróxidos orgánicos, sustancias y mezclas corrosivas para los metales, y explosivos insensibilizados 
                 p(style="text-weigth: 800; text-align: right;") (Hoyos, 2017).
 
       .py-3.py-md-4(titulo="Peligros para la salud")
@@ -172,7 +172,7 @@
       .col-md-4
         img.px-4(src='@/assets/curso/figure-10.svg', alt='Nota. MinAmbiente (s.f.)')
 
-    p.mb-5.justify-text También existe en el SGA algunas clases de peligros físicos en el que la escala no está establecida numéricamente sino a través de una escala alfabética, como es el caso de Sustancias y mezclas que reaccionan espontáneamente y los peróxidos orgánicos.
+    p.mb-5.justify-text También existe en el SGA algunas clases de peligros físicos en el que la escala no está establecida numéricamente sino a través de una escala alfabética, como es el caso de sustancias y mezclas que reaccionan espontáneamente y los peróxidos orgánicos.
       br
       br
       | Según SGA revisión sexta, en el capítulo 1.2 definiciones y abreviaturas, la clasificación del peligro de un producto químico parte de:
@@ -385,7 +385,7 @@
       p.fw-bold.mb-5.px-3.h5.mt-3 Explosivos
       .row.px-4
         .col-md-7.mb-4.mb-md-0
-          p.justify-text El pictograma que se observa en la figura representa las sustancias o productos explosivos. Esto es una sustancia sólida o líquida (o mezcla de sustancias) que, de manera espontánea o por reacción química, puede desprender gases a una temperatura, presión y velocidad tales que puedan ocasionar daños en su entorno.
+          p.justify-text El pictograma que se observa en la figura representa los productos explosivos. Esto es una sustancia sólida o líquida (o mezcla de sustancias) que, de manera espontánea o por reacción química, puede desprender gases a una temperatura, presión y velocidad tales que puedan ocasionar daños en su entorno.
             br
             br
             | Los explosivos se clasifican en seis divisiones (categorías), estas se tienen en cuenta de acuerdo con las características del tipo de peligro de explosión, y se clasifican en: 1.1, 1.2, 1.3, 1.4, 1.5 y 1.6.  El pictograma de explosividad se presenta en las cuatros primeras divisiones y en la correspondiente a explosivos inestables.
@@ -460,7 +460,7 @@
       p.fw-bold.mb-5.px-3.h5.mt-3 Productos químicos inflamables
       .row.px-4
         .col-md-7.mb-4.mb-md-0
-          p.justify-text.mb-4 Los productos químicos inflamables son sustancias o mezclas líquidas, sólidas o gaseosas que se inflaman con facilidad, generando un incendio en presencia de una chispa o fuente de calor y de una sustancia comburente.
+          p.justify-text.mb-4 Los productos químicos inflamables son sustancias o mezclas líquidas, sólidas o gaseosas que se inflaman con facilidad, generando un incendio en presencia de una chispa o fuente de calor y de un producto comburente.  
             br
             br
             | Se consideran gases inflamables cuando se inflaman a 20°C y a una presión de 101,3 kPa. En los líquidos, cuando los productos químicos presentan puntos de inflamación menores a 92°C, y en el caso de sólidos cuando estos inflaman con facilidad o cuando por frotamiento pueden provocar o activar un incendio.
@@ -494,7 +494,7 @@
                 | Sustancias y mezclas que en contacto con el agua desprenden gases inflamables. Utilizadas como pictograma para las categorías 1, 2 y 3.
               li
                 i.lista-ul__vineta
-                | Explosivos insensibilizados categorías 1, 2 ,3 y 4 son aquellos explosivos líquidos o sólidos a los cuales se les agrega un flemador, que es una sustancia que los vuelve menos sensibles o insensibles a un explosivo para ser afectado por condiciones como temperatura y fricción, aumentando el margen de seguridad que presenta el producto químico durante su manipulación y transporte, según el SGA revisión sexta.
+                | Explosivos insensibilizados categorías 1, 2 ,3 y 4 son aquellos explosivos líquidos o sólidos a los cuales se les agrega un flemador, que es un producto químico que los vuelve menos sensibles o insensibles a un explosivo para ser afectado por condiciones como temperatura y fricción, aumentando el margen de seguridad que presenta el producto químico durante su manipulación y transporte, según el SGA revisión sexta.
 
         .col-md-5
           img.px-5.mb-3(src='@/assets/curso/figure-27.svg', alt='Texto que describa la imagen')
@@ -517,10 +517,10 @@
             | El pictograma que aplica para los productos químicos comburentes y peróxidos orgánicos es el que se presenta en la figura.
             br
             br
-            | Son productos que generalmente contienen y aportan oxígeno en una reacción química, provocando o favoreciendo la combustión de otra sustancia, por ejemplo, oxígeno gaseoso, peróxido de hidrógeno, nitrato de amonio.
+            | Son productos que generalmente contienen y aportan oxígeno en una reacción química, provocando o favoreciendo la combustión de otro producto, por ejemplo, oxígeno gaseoso, peróxido de hidrógeno, nitrato de amonio. 
             br
             br
-            | Los peróxidos orgánicos son productos químicos que contienen la estructura bivalente -O-O- y pueden considerarse derivados del peróxido de hidrógeno, en el que uno o ambos átomos de hidrógeno han sido sustituido(s) por radical(es) orgánico(s). Los peróxidos orgánicos son sustancias térmicamente inestables que pueden sufrir una descomposición exotérmica auto-acelerada, es decir, que liberan calor al reaccionar. Además, pueden tener una o varias de las siguientes propiedades:
+            | Los peróxidos orgánicos son productos químicos que contienen la estructura bivalente -O-O- y pueden considerarse derivados del peróxido de hidrógeno, en el que uno o ambos átomos de hidrógeno han sido sustituido(s) por radical(es) orgánico(s). Los peróxidos orgánicos son productos químicos térmicamente inestables que pueden sufrir una descomposición exotérmica auto-acelerada, es decir, que liberan calor al reaccionar. Además, pueden tener una o varias de las siguientes propiedades:
 
           ul.lista-ul.mb-4
             li
@@ -697,7 +697,7 @@
           img(src='@/assets/curso/figure-36.svg', alt='Simbolos')
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p.justify-text La toxicidad aguda de una sustancia química se refiere a los efectos adversos (efectos que son sistémicos y generalizados) que se manifiestan tras la administración por vía oral o cutánea de una sola dosis de dicha sustancia, de dosis múltiples administradas a lo largo de 24 horas o como consecuencia de la inhalación por 4 horas de la sustancia, según el SGA revisión sexta.
+            p.justify-text La toxicidad aguda de un producto químico se refiere a los efectos adversos (efectos que son sistémicos y generalizados) que se manifiestan tras la administración por vía oral o cutánea de una sola dosis de dicho producto, de dosis múltiples administradas a lo largo de 24 horas o como consecuencia de la inhalación por 4 horas del producto, según el SGA revisión sexta.
               br
               br
               | El criterio de clasificación utilizado para esta clase de peligros se relaciona con la dosis letal 50, que corresponde a la cantidad de un producto químico que, administrado en una sola dosis, mata el 50 % (la mitad) de los animales que han sido expuestos a la sustancia o mezcla química.
@@ -707,7 +707,7 @@
         p.mb-5.justify-text El pictograma que se presenta es el usado para comunicar este peligro y corresponde a una calavera humana con dos tibias cruzadas dentro del rombo de bordes rojo y, a pesar de que el mismo dibujo se ha usado en el pasado para comunicar peligro, debe aclararse que es utilizado en el SGA solo para las categorías de toxicidad aguda 1, 2 y 3, independiente de la vía de exposición que presente peligro (oral, dérmica o inhalatoria).
           br
           br
-          | Las sustancias que contengan este pictograma deben almacenarse en lugares con accesos restringidos, se recomienda usar elementos de protección personal, dependiendo de las vías de ingreso posibles al manipular productos químicos que estén dentro de esta clasificación.
+          | Los productos químicos que contengan este pictograma deben almacenarse en lugares con accesos restringidos, se recomienda usar elementos de protección personal, dependiendo de las vías de ingreso posibles al manipular productos químicos que estén dentro de esta clasificación. 
           br
           br
           | A los productos químicos clasificados como tóxicos agudos se les debe verificar periódicamente su contenido y estado de los envases, a fin de identificar fugas o sustracciones del producto, y así poder controlar oportunamente estos eventos.
@@ -981,7 +981,7 @@
             p.justify-text Por corrosión cutánea se entiende la formación de una lesión irreversible de la piel, tal como necrosis visible a través de la epidermis hasta la dermis, tras la exposición a un producto químico hasta por 4 horas.
               br
               br
-              | Por lesión ocular grave se entiende aquella lesión del tejido ocular o degradación severa de la vista como consecuencia de la aplicación de una sustancia de ensayo en la superficie anterior del ojo y, que no es totalmente reversible en los 21 días seguidos a la aplicación, según el SGA revisión sexta.
+              | Por lesión ocular grave se entiende aquella lesión del tejido ocular o degradación severa de la vista como consecuencia de la aplicación de un producto químico de ensayo en la superficie anterior del ojo y, que no es totalmente reversible en los 21 días seguidos a la aplicación, según el SGA revisión sexta. 
               br
               br
               | Los productos químicos con pH muy altos o bajos presentan un efecto corrosivo para la piel, es así como pH menores a 2 y superiores a 11.5, a falta de otra evidencia que lo soporte, puede ser considerado para clasificar un producto químico como corrosivo para la piel y generador de una lesión ocular grave, según el SGA revisión sexta.
@@ -1041,7 +1041,7 @@
           | Por irritación cutánea se entiende la formación de una lesión reversible en la piel, tras la exposición de esta a un producto químico durante un período de 4 horas.
           br
           br
-          | Por irritación ocular se entiende la aparición de lesiones oculares como consecuencia de la aplicación de una sustancia de ensayo en la superficie anterior del ojo y, que son totalmente reversibles en los 21 días siguientes a la exposición del producto químico.
+          | Por irritación ocular se entiende la aparición de lesiones oculares como consecuencia de la aplicación de un producto químico de ensayo en la superficie anterior del ojo y, que son totalmente reversibles en los 21 días siguientes a la exposición del producto químico. 
           br
           br
           | La irritación cutánea/ocular puede ser causada por productos químicos que en concentraciones mayores generan corrosiones y, al estar diluidos el efecto se atenúa produciendo lesiones menores y sin necrosis en la piel.

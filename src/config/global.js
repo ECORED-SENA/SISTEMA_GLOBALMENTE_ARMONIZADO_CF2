@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Comunicación de peligros y riesgos según Sistema Globalmente Armonizado',
+      'Comunicación de peligros según Sistema Globalmente Armonizado (SGA)',
     descripcionCurso:
       'El Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos nace como una iniciativa global de armonización en la forma en que  se clasifican y comunican  los peligros que presenta un producto químico, pilar que es fundamental en el desarrollo de una estrategia de gestión segura de productos químicos entre países, nace como un  compromiso establecido por los países y organizaciones que hacen parte del Sistema de Naciones Unidas que participaron en el desarrollo de la agenda del Programa  21 de Río de Janeiro realizado en 1992, cuya primera edición sale en el año 2003, la versión del año 2019 corresponde a la versión octava y frente a lo cual Colombia adopta a través del decreto 1496 de 2018, la versión sexta.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
@@ -114,11 +114,6 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -202,6 +197,10 @@ export default {
       },
       {
         nombre: 'Sergio Omar Camacho Orduz',
+        cargo: 'Desarrollo front-end',
+      },
+      {
+        nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo front-end',
       },
       {
