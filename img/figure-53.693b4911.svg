@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="328.219" height="409.561" viewBox="0 0 328.219 409.561">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.056" x2="0.5" y2="-0.039" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.42" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="0.903" stop-color="#505052"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_57256" data-name="Grupo 57256" transform="translate(-875 -21858.002)">
+    <g id="Grupo_56715" data-name="Grupo 56715" transform="translate(630.795 21387.557)">
+      <g id="Grupo_56714" data-name="Grupo 56714" transform="translate(244.205 470.446)">
+        <g id="Grupo_56713" data-name="Grupo 56713" transform="translate(0 0)">
+          <g id="Grupo_56712" data-name="Grupo 56712">
+            <g id="Grupo_56711" data-name="Grupo 56711">
+              <rect id="Rectángulo_8277" data-name="Rectángulo 8277" width="232.086" height="232.086" rx="11.73" transform="translate(0 164.11) rotate(-45)" fill="#d61b22"/>
+              <rect id="Rectángulo_8278" data-name="Rectángulo 8278" width="197.612" height="197.612" rx="10.497" transform="translate(24.376 164.11) rotate(-45)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <circle id="Elipse_4084" data-name="Elipse 4084" cx="4.308" cy="4.308" r="4.308" transform="translate(453.283 623.623)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectángulo_8279" data-name="Rectángulo 8279" width="43.503" height="6.781" transform="translate(471.34 625.002)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_101939" data-name="Trazado 101939" d="M442.919,625l-5.593-.395-3.027-6.646-2.763-.46-1.315-2.566-1.119-5.46c9.08-7.83,7.237-18.9,7.237-18.9,2.06-2.237,6.908-11.229,6.908-11.229a30.546,30.546,0,0,0,3.092-14.8l-5-2.039c-4.342,4.868-12.3,10.79-14.738,6.974s2.3-7.3,2.3-7.3l-1.579-1.119-1.25-2.632c-4.671-.593-11.382,2.368-11.382,2.368-19.606-3.947-25.791,7.6-25.791,7.6l5.154,6.919c-11.579,9.825-22.457,28.949-22.457,28.949l-10.527-1.029-3.859,1.906,7.544,10.7h-5.264l-1.929,3.51h-8.6l-7.545,10.526H323.176l-3.333,4.738-10,1.754-5.088,6.667h137.2l9.057-9.409Zm-21.646-61.583s-2.894,7.7,3.619,10.857,15.2-3.75,15.2-3.75-4.672,30.264-23.62,16.053C416.47,586.581,401.272,573.949,421.272,563.421Zm-15.066,1.053-8.389,7.007-2.2-2.368C398.18,565.164,406.207,564.474,406.207,564.474Zm-30.878,56.581-8.9-11.8,10.264.7Zm6.337-10.264.549-2.982-1.71-2.018h-3.816v-1.842s19.781-29.211,30.045-33.422c0,0-3.552,11.952,4.474,18.641,0,0,5.526,6.294,13.685,5.768,0,0-15.342,12.3-42.113,17.567Zm20.2,5.329-1.074-1.908-.965-1.119c13.092-2.17,31.121-16.119,31.121-16.119C427,610.6,401.863,616.121,401.863,616.121Z" transform="translate(31.725 46.054)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_101940" data-name="Trazado 101940" d="M396.072,606.492l3.685-6.843H369.23l14.527-27.326h13.948v-5.965h-10l5.439-11.58-5-3.246-7.457,13.159-.263-7.983-6.843.088.175,21.492-4.561,7.786V558.927l4.518-5.639,19.738-7.764-2.544-5.7-10.351,3.86,7.325-10.527-5.307-3.728-16.229,21.712,8.728-30.791-6.184-2.018-3.86,12.413-9.3-11.009-5,4.079,12.588,14.694-3.158,10.044-11.887-19.387-5.7,3.9,6.535,9.869H338.141v6.141l14.694.219,3.07,5.248v15l-7.062-17.4-6.141,2.368,4.562,12.106-12.018-12.106-4.737,4.474,9.211,9.386-7.281,5.263,3.333,5.668,8.86-5.931,11.272,12.118V599.65H287.744v6.843h68.161v6.027l-14.167,3.93,2.369,5.921,11.229-2.807-2.763,4.63,5.351,2.826,5.088-8.553,15.439,1.36v-6.053l-9.255-2.212v-5.069Z" transform="translate(22.813 25.089)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <rect id="Rectángulo_8286" data-name="Rectángulo 8286" width="325.745" height="56.655" rx="3.913" transform="translate(875 22204.551)" fill="#f94e4e"/>
+    <text id="Pictograma_peligros_para_el_medio_ambiente_SGA" data-name="Pictograma peligros para el medio ambiente SGA" transform="translate(882.553 22211.563)" fill="#fff" font-size="15.919" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="31.593" y="17">Pictograma peligros para el medio </tspan><tspan x="102.998" y="36.103">ambiente SGA</tspan></text>
+  </g>
+</svg>
